@@ -1,0 +1,2718 @@
+word,root_word,root_definition,word_id,is_root,pos,wordnet_polysemy_count,wordnet_definitions,exclude_yutao,exclude_final
+abhor,abhorrence,hate coupled with disgust,10,FALSE,verb,1,find repugnant,,
+abhorred,abhorrence,hate coupled with disgust,11,FALSE,verb,1,find repugnant,,
+abhorrence,abhorrence,hate coupled with disgust,9,TRUE,noun,1,hate coupled with disgust,,
+abhorrences,abhorrence,hate coupled with disgust,13,FALSE,noun,1,hate coupled with disgust,,
+abhorrent,abhorrence,hate coupled with disgust,14,FALSE,adjective,1,offensive to the mind,,
+abhorrer,abhorrence,hate coupled with disgust,15,FALSE,noun,1,a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred,,
+abhorrers,abhorrence,hate coupled with disgust,16,FALSE,noun,1,a signer of a 1679 address to Charles II in which those who petitioned for the reconvening of parliament were condemned and abhorred,,
+abhorring,abhorrence,hate coupled with disgust,17,FALSE,verb,1,find repugnant,,
+abhors,abhorrence,hate coupled with disgust,18,FALSE,verb,1,find repugnant,,
+adoration,adoration,a feeling of profound love and admiration,36,TRUE,noun,3,"a feeling of profound love and admiration
+the act of admiring strongly
+the worship given to God alone",,
+adorations,adoration,a feeling of profound love and admiration,38,FALSE,noun,3,"a feeling of profound love and admiration
+the act of admiring strongly
+the worship given to God alone",,
+affection,affection,a positive feeling of liking,39,TRUE,noun,1,a positive feeling of liking,,
+affections,affection,a positive feeling of liking,41,FALSE,noun,1,a positive feeling of liking,,
+aggravate,aggravation,an exasperated feeling of annoyance,43,FALSE,verb,2,"make worse
+exasperate or irritate",1,1
+aggravated,aggravation,an exasperated feeling of annoyance,44,FALSE,verb,4,"make worse
+exasperate or irritate
+made more severe or intense especially in law
+incited, especially deliberately, to anger",1,1
+aggravates,aggravation,an exasperated feeling of annoyance,45,FALSE,verb,2,"make worse
+exasperate or irritate",1,1
+aggravating,aggravation,an exasperated feeling of annoyance,46,FALSE,verb,3,"make worse
+exasperate or irritate
+making worse",1,1
+aggravation,aggravation,an exasperated feeling of annoyance,42,TRUE,noun,3,"an exasperated feeling of annoyance
+unfriendly behavior that causes anger or resentment
+action that makes a problem or a disease (or its symptoms) worse",1,0
+aggravations,aggravation,an exasperated feeling of annoyance,48,FALSE,noun,3,"an exasperated feeling of annoyance
+unfriendly behavior that causes anger or resentment
+action that makes a problem or a disease (or its symptoms) worse",1,0
+aggravator,aggravation,an exasperated feeling of annoyance,49,FALSE,noun,1,an unpleasant person who is annoying or exasperating,,
+aggravators,aggravation,an exasperated feeling of annoyance,50,FALSE,noun,1,an unpleasant person who is annoying or exasperating,,
+agitation,agitation,the feeling of being agitated; not calm,51,TRUE,noun,5,"a mental state of extreme emotional disturbance
+a state of agitation or turbulent change or development
+the feeling of being agitated; not calm
+disturbance usually in protest
+the act of agitating something; causing it to move around (usually vigorously)",,
+agitations,agitation,the feeling of being agitated; not calm,53,FALSE,noun,5,"a mental state of extreme emotional disturbance
+a state of agitation or turbulent change or development
+the feeling of being agitated; not calm
+disturbance usually in protest
+the act of agitating something; causing it to move around (usually vigorously)",,
+agon,agony,intense feelings of suffering; acute mental or physical pain,55,FALSE,noun,1,a festivity in ancient Greece at which competitors contended for prizes,1,1
+agonal,agony,intense feelings of suffering; acute mental or physical pain,56,FALSE,adjective,1,pertaining to or associated with agony (especially death agonies),1,1
+agonies,agony,intense feelings of suffering; acute mental or physical pain,57,FALSE,noun,2,"intense feelings of suffering; acute mental or physical pain
+a state of acute pain",,
+agonise,agony,intense feelings of suffering; acute mental or physical pain,58,FALSE,verb,2,"cause to agonize
+suffer agony or anguish",,
+agonist,agony,intense feelings of suffering; acute mental or physical pain,59,FALSE,noun,4,"the principal character in a work of fiction
+someone involved in a contest or battle (as in an agon)
+a muscle that contracts while another relaxes
+(biochemistry) a drug that can combine with a receptor on a cell to produce a physiological reaction",1,1
+agonistic,agony,intense feelings of suffering; acute mental or physical pain,60,FALSE,adjective,3,"of or relating to the athletic contests held in ancient Greece
+striving to overcome in argument
+struggling for effect",1,1
+agonists,agony,intense feelings of suffering; acute mental or physical pain,61,FALSE,noun,4,"the principal character in a work of fiction
+someone involved in a contest or battle (as in an agon)
+a muscle that contracts while another relaxes
+(biochemistry) a drug that can combine with a receptor on a cell to produce a physiological reaction",1,1
+agonize,agony,intense feelings of suffering; acute mental or physical pain,62,FALSE,verb,2,"cause to agonize
+suffer agony or anguish",,
+agonized,agony,intense feelings of suffering; acute mental or physical pain,63,FALSE,verb,3,"cause to agonize
+suffer agony or anguish
+expressing pain or agony",,
+agonizes,agony,intense feelings of suffering; acute mental or physical pain,64,FALSE,verb,2,"cause to agonize
+suffer agony or anguish",,
+agonizing,agony,intense feelings of suffering; acute mental or physical pain,65,FALSE,verb,3,"cause to agonize
+suffer agony or anguish
+extremely painful",,
+agons,agony,intense feelings of suffering; acute mental or physical pain,66,FALSE,noun,1,a festivity in ancient Greece at which competitors contended for prizes,1,1
+agony,agony,intense feelings of suffering; acute mental or physical pain,54,TRUE,noun,2,"intense feelings of suffering; acute mental or physical pain
+a state of acute pain",,
+alarm,alarm,fear resulting from the awareness of danger,68,TRUE,noun,6,"fear resulting from the awareness of danger
+a device that signals the occurrence of some undesirable event
+an automatic signal (usually a sound) warning of danger
+a clock that wakes a sleeper at some preset time
+fill with apprehension or alarm; cause to be unpleasantly surprised
+warn or arouse to a sense of danger or call to a state of preparedness",1,0
+alarmed,alarm,fear resulting from the awareness of danger,71,FALSE,verb,3,"fill with apprehension or alarm; cause to be unpleasantly surprised
+warn or arouse to a sense of danger or call to a state of preparedness
+experiencing a sudden sense of danger",,
+alarming,alarm,fear resulting from the awareness of danger,72,FALSE,verb,3,"fill with apprehension or alarm; cause to be unpleasantly surprised
+warn or arouse to a sense of danger or call to a state of preparedness
+frightening because of an awareness of danger",,
+alarmism,alarm,fear resulting from the awareness of danger,73,FALSE,noun,1,needless warnings,,
+alarmisms,alarm,fear resulting from the awareness of danger,74,FALSE,noun,1,needless warnings,,
+alarmist,alarm,fear resulting from the awareness of danger,75,FALSE,noun,1,a person who alarms others needlessly,,
+alarmists,alarm,fear resulting from the awareness of danger,76,FALSE,noun,1,a person who alarms others needlessly,,
+alarms,alarm,fear resulting from the awareness of danger,78,FALSE,verb,6,"fear resulting from the awareness of danger
+a device that signals the occurrence of some undesirable event
+an automatic signal (usually a sound) warning of danger
+a clock that wakes a sleeper at some preset time
+fill with apprehension or alarm; cause to be unpleasantly surprised
+warn or arouse to a sense of danger or call to a state of preparedness",1,0
+alienation,alienation,the feeling of being alienated from other people,90,TRUE,noun,4,"the feeling of being alienated from other people
+separation resulting from hostility
+(law) the voluntary and absolute transfer of title and possession of real property from one person to another
+the action of alienating; the action of causing to become unfriendly",1,0
+alienations,alienation,the feeling of being alienated from other people,92,FALSE,noun,4,"the feeling of being alienated from other people
+separation resulting from hostility
+(law) the voluntary and absolute transfer of title and possession of real property from one person to another
+the action of alienating; the action of causing to become unfriendly",1,0
+amaze,amazement,the feeling that accompanies something extremely surprising,94,FALSE,verb,2,"affect with wonder
+be a mystery or bewildering to",,
+amazed,amazement,the feeling that accompanies something extremely surprising,95,FALSE,verb,3,"affect with wonder
+be a mystery or bewildering to
+filled with the emotional impact of overwhelming surprise or shock",,
+amazement,amazement,the feeling that accompanies something extremely surprising,93,TRUE,noun,1,the feeling that accompanies something extremely surprising,,
+amazements,amazement,the feeling that accompanies something extremely surprising,97,FALSE,noun,1,the feeling that accompanies something extremely surprising,,
+amazes,amazement,the feeling that accompanies something extremely surprising,98,FALSE,verb,2,"affect with wonder
+be a mystery or bewildering to",,
+amazing,amazement,the feeling that accompanies something extremely surprising,99,FALSE,verb,4,"affect with wonder
+be a mystery or bewildering to
+surprising greatly
+inspiring awe or admiration or wonder; ; ; ; - Melville",,
+amuse,amusement,a feeling of delight at being entertained,101,FALSE,verb,2,"occupy in an agreeable, entertaining or pleasant fashion
+make (somebody) laugh",,
+amused,amusement,a feeling of delight at being entertained,102,FALSE,verb,3,"occupy in an agreeable, entertaining or pleasant fashion
+make (somebody) laugh
+pleasantly occupied;  -Queen Victoria",,
+amusement,amusement,a feeling of delight at being entertained,100,TRUE,noun,2,"a feeling of delight at being entertained
+an activity that is diverting and that holds the attention",,
+amusements,amusement,a feeling of delight at being entertained,104,FALSE,noun,2,"a feeling of delight at being entertained
+an activity that is diverting and that holds the attention",,
+amuses,amusement,a feeling of delight at being entertained,105,FALSE,verb,2,"occupy in an agreeable, entertaining or pleasant fashion
+make (somebody) laugh",,
+amusing,amusement,a feeling of delight at being entertained,106,FALSE,verb,4,"occupy in an agreeable, entertaining or pleasant fashion
+make (somebody) laugh
+providing enjoyment; pleasantly entertaining
+arousing or provoking laughter",,
+amusive,amusement,a feeling of delight at being entertained,107,FALSE,adjective,1,providing enjoyment; pleasantly entertaining,,
+anger,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,108,TRUE,noun,5,"a strong emotion; a feeling that is oriented toward some real or supposed grievance
+the state of being angry
+belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
+make angry
+become angry",,
+angered,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,111,FALSE,verb,3,"make angry
+become angry
+marked by extreme anger",,
+angering,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,112,FALSE,verb,2,"make angry
+become angry",,
+angers,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,113,FALSE,noun,5,"a strong emotion; a feeling that is oriented toward some real or supposed grievance
+the state of being angry
+belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
+make angry
+become angry",,
+angrily,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,115,FALSE,adverb,1,with anger,,
+angriness,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,116,FALSE,noun,1,the state of being angry,,
+angrinesses,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,117,FALSE,noun,1,the state of being angry,,
+angry,anger,a strong emotion; a feeling that is oriented toward some real or supposed grievance,118,FALSE,adjective,3,"feeling or showing anger
+(of the elements) as if showing violent anger
+severely inflamed and painful",,
+anguish,anguish,extreme mental distress,119,TRUE,noun,4,"extreme mental distress
+extreme distress of body or mind
+suffer great pains or distress
+cause emotional anguish or make miserable",,
+anguished,anguish,extreme mental distress,122,FALSE,verb,3,"suffer great pains or distress
+cause emotional anguish or make miserable
+experiencing intense pain especially mental pain",,
+anguishes,anguish,extreme mental distress,124,FALSE,verb,4,"extreme mental distress
+extreme distress of body or mind
+suffer great pains or distress
+cause emotional anguish or make miserable",,
+anguishing,anguish,extreme mental distress,125,FALSE,verb,2,"suffer great pains or distress
+cause emotional anguish or make miserable",,
+annoy,annoyance,anger produced by some annoying irritation,127,FALSE,verb,1,"cause annoyance in; disturb, especially by minor irritations",,
+annoyance,annoyance,anger produced by some annoying irritation,126,TRUE,noun,5,"the psychological state of being irritated or annoyed
+anger produced by some annoying irritation
+an unpleasant person who is annoying or exasperating
+something or someone that causes trouble; a source of unhappiness
+the act of troubling or annoying someone",,
+annoyances,annoyance,anger produced by some annoying irritation,129,FALSE,noun,5,"the psychological state of being irritated or annoyed
+anger produced by some annoying irritation
+an unpleasant person who is annoying or exasperating
+something or someone that causes trouble; a source of unhappiness
+the act of troubling or annoying someone",,
+annoyed,annoyance,anger produced by some annoying irritation,130,FALSE,verb,3,"cause annoyance in; disturb, especially by minor irritations
+aroused to impatience or anger
+troubled persistently especially with petty annoyances",,
+annoyer,annoyance,anger produced by some annoying irritation,131,FALSE,noun,1,someone given to teasing (as by mocking or stirring curiosity),,
+annoyers,annoyance,anger produced by some annoying irritation,132,FALSE,noun,1,someone given to teasing (as by mocking or stirring curiosity),,
+annoying,annoyance,anger produced by some annoying irritation,133,FALSE,verb,3,"the act of troubling or annoying someone
+cause annoyance in; disturb, especially by minor irritations
+causing irritation or annoyance",,
+annoys,annoyance,anger produced by some annoying irritation,134,FALSE,verb,1,"cause annoyance in; disturb, especially by minor irritations",,
+anxieties,anxiety,a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune,136,FALSE,noun,2,"(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic
+a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune",,
+anxiety,anxiety,a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune,135,TRUE,noun,2,"(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic
+a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune",,
+apprehend,apprehension,fearful expectation or anticipation,139,FALSE,verb,3,"get the meaning of something
+take into custody
+anticipate with dread or anxiety",1,1
+apprehended,apprehension,fearful expectation or anticipation,140,FALSE,verb,4,"get the meaning of something
+take into custody
+anticipate with dread or anxiety
+fully understood or grasped",1,1
+apprehender,apprehension,fearful expectation or anticipation,141,FALSE,noun,2,"a person who knows or apprehends
+a person who seizes or arrests (especially a person who seizes or arrests in the name of justice)",1,1
+apprehenders,apprehension,fearful expectation or anticipation,142,FALSE,noun,2,"a person who knows or apprehends
+a person who seizes or arrests (especially a person who seizes or arrests in the name of justice)",1,1
+apprehending,apprehension,fearful expectation or anticipation,143,FALSE,verb,3,"get the meaning of something
+take into custody
+anticipate with dread or anxiety",1,1
+apprehends,apprehension,fearful expectation or anticipation,144,FALSE,verb,3,"get the meaning of something
+take into custody
+anticipate with dread or anxiety",1,1
+apprehensible,apprehension,fearful expectation or anticipation,145,FALSE,adjective,1,capable of being apprehended or understood,1,1
+apprehension,apprehension,fearful expectation or anticipation,138,TRUE,noun,4,"fearful expectation or anticipation
+the cognitive condition of someone who understands
+painful expectation
+the act of apprehending (especially apprehending a criminal)",1,0
+apprehensions,apprehension,fearful expectation or anticipation,147,FALSE,noun,4,"fearful expectation or anticipation
+the cognitive condition of someone who understands
+painful expectation
+the act of apprehending (especially apprehending a criminal)",1,0
+apprehensive,apprehension,fearful expectation or anticipation,148,FALSE,adjective,3,"quick to understand; - Nathaniel Hawthorne
+mentally upset over possible misfortune or danger etc
+in fear or dread of possible evil or harm",1,1
+apprehensively,apprehension,fearful expectation or anticipation,149,FALSE,adverb,1,with anxiety or apprehension,,
+apprehensiveness,apprehension,fearful expectation or anticipation,150,FALSE,noun,1,fearful expectation or anticipation,,
+apprehensivenesses,apprehension,fearful expectation or anticipation,151,FALSE,noun,1,fearful expectation or anticipation,,
+approbate,approval,a feeling of liking something or someone good,153,FALSE,verb,2,"approve or sanction officially
+accept (documents) as valid",1,1
+approbated,approval,a feeling of liking something or someone good,154,FALSE,verb,2,"approve or sanction officially
+accept (documents) as valid",1,1
+approbates,approval,a feeling of liking something or someone good,155,FALSE,verb,2,"approve or sanction officially
+accept (documents) as valid",1,1
+approbating,approval,a feeling of liking something or someone good,156,FALSE,verb,2,"approve or sanction officially
+accept (documents) as valid",1,1
+approbation,approval,a feeling of liking something or someone good,157,FALSE,noun,2,"official approval
+official recognition or approval",1,1
+approbations,approval,a feeling of liking something or someone good,158,FALSE,noun,2,"official approval
+official recognition or approval",1,1
+approbative,approval,a feeling of liking something or someone good,159,FALSE,adjective,1,expressing or manifesting praise or approval,1,1
+approbatory,approval,a feeling of liking something or someone good,160,FALSE,adjective,1,expressing or manifesting praise or approval,1,1
+approval,approval,a feeling of liking something or someone good,152,TRUE,noun,4,"the formal act of approving
+a feeling of liking something or someone good
+acceptance as satisfactory
+a message expressing a favorable opinion",1,0
+approvals,approval,a feeling of liking something or someone good,162,FALSE,noun,4,"the formal act of approving
+a feeling of liking something or someone good
+acceptance as satisfactory
+a message expressing a favorable opinion",1,0
+approve,approval,a feeling of liking something or someone good,163,FALSE,verb,2,"give sanction to
+judge to be right or commendable; think well of",1,0
+approved,approval,a feeling of liking something or someone good,164,FALSE,verb,3,"give sanction to
+judge to be right or commendable; think well of
+established by authority; given authoritative approval",1,0
+approver,approval,a feeling of liking something or someone good,165,FALSE,noun,1,an authority with power to approve,1,0
+approvers,approval,a feeling of liking something or someone good,166,FALSE,noun,1,an authority with power to approve,1,0
+approves,approval,a feeling of liking something or someone good,167,FALSE,verb,2,"give sanction to
+judge to be right or commendable; think well of",1,0
+approving,approval,a feeling of liking something or someone good,168,FALSE,verb,4,"the formal act of approving
+give sanction to
+judge to be right or commendable; think well of
+expressing or manifesting praise or approval",1,0
+astonish,astonishment,the feeling that accompanies something extremely surprising,179,FALSE,verb,1,affect with wonder,,
+astonished,astonishment,the feeling that accompanies something extremely surprising,180,FALSE,verb,2,"affect with wonder
+filled with the emotional impact of overwhelming surprise or shock",,
+astonishes,astonishment,the feeling that accompanies something extremely surprising,181,FALSE,verb,1,affect with wonder,,
+astonishing,astonishment,the feeling that accompanies something extremely surprising,182,FALSE,verb,3,"affect with wonder
+surprising greatly
+so surprisingly impressive as to stun or overwhelm",,
+astonishment,astonishment,the feeling that accompanies something extremely surprising,178,TRUE,noun,1,the feeling that accompanies something extremely surprising,,
+astonishments,astonishment,the feeling that accompanies something extremely surprising,184,FALSE,noun,1,the feeling that accompanies something extremely surprising,,
+aversion,aversion,a feeling of intense dislike,199,TRUE,noun,2,"a feeling of intense dislike
+the act of turning yourself (or your gaze) away",,
+aversions,aversion,a feeling of intense dislike,201,FALSE,noun,2,"a feeling of intense dislike
+the act of turning yourself (or your gaze) away",,
+avert,aversion,a feeling of intense dislike,202,FALSE,verb,2,"prevent the occurrence of; prevent from happening
+turn away or aside",1,1
+avertable,aversion,a feeling of intense dislike,203,FALSE,adjective,1,capable of being avoided or warded off,1,1
+averted,aversion,a feeling of intense dislike,204,FALSE,verb,2,"prevent the occurrence of; prevent from happening
+turn away or aside",1,1
+avertible,aversion,a feeling of intense dislike,205,FALSE,adjective,1,capable of being avoided or warded off,1,1
+averting,aversion,a feeling of intense dislike,206,FALSE,verb,4,"the act of preventing something from occurring
+the act of turning yourself (or your gaze) away
+prevent the occurrence of; prevent from happening
+turn away or aside",1,1
+averts,aversion,a feeling of intense dislike,207,FALSE,verb,2,"prevent the occurrence of; prevent from happening
+turn away or aside",1,1
+awe,awe,an overwhelming feeling of wonder or admiration,208,TRUE,noun,3,"an overwhelming feeling of wonder or admiration
+a feeling of profound respect for someone or something
+inspire awe in",,
+awed,awe,an overwhelming feeling of wonder or admiration,211,FALSE,verb,3,"inspire awe in
+inspired by a feeling of fearful wonderment or reverence
+having or showing a feeling of mixed reverence and respect and wonder and dread",,
+awes,awe,an overwhelming feeling of wonder or admiration,213,FALSE,verb,3,"an overwhelming feeling of wonder or admiration
+a feeling of profound respect for someone or something
+inspire awe in",,
+awing,awe,an overwhelming feeling of wonder or admiration,214,FALSE,verb,2,"inspire awe in
+inspiring awe or admiration or wonder; ; ; ; - Melville",,
+bitter,bitterness,a feeling of deep and bitter anger and ill-will,225,FALSE,noun,12,"English term for a dry sharp-tasting ale with strong flavor of hops (usually on draft)
+the taste experience when quinine or coffee is taken into the mouth
+the property of having a harsh unpleasant taste
+make bitter
+marked by strong resentment or cynicism
+very difficult to accept or bear
+harsh or corrosive in tone
+expressive of severe grief or regret
+proceeding from or exhibiting great hostility or animosity
+causing a sharp and acrid taste experience
+causing a sharply painful or stinging sensation; used especially of cold
+extremely and sharply",,
+bittered,bitterness,a feeling of deep and bitter anger and ill-will,229,FALSE,verb,1,make bitter,,
+bittering,bitterness,a feeling of deep and bitter anger and ill-will,230,FALSE,verb,1,make bitter,,
+bitterly,bitterness,a feeling of deep and bitter anger and ill-will,231,FALSE,adverb,3,"with bitterness, in a resentful manner
+indicating something hard to accept
+extremely and sharply",,
+bitterness,bitterness,a feeling of deep and bitter anger and ill-will,224,TRUE,noun,4,"a feeling of deep and bitter anger and ill-will
+a rough and bitter manner
+the taste experience when quinine or coffee is taken into the mouth
+the property of having a harsh unpleasant taste",,
+bitternesses,bitterness,a feeling of deep and bitter anger and ill-will,233,FALSE,noun,4,"a feeling of deep and bitter anger and ill-will
+a rough and bitter manner
+the taste experience when quinine or coffee is taken into the mouth
+the property of having a harsh unpleasant taste",,
+bitters,bitterness,a feeling of deep and bitter anger and ill-will,234,FALSE,noun,5,"alcoholic liquor flavored with bitter herbs and roots
+English term for a dry sharp-tasting ale with strong flavor of hops (usually on draft)
+the taste experience when quinine or coffee is taken into the mouth
+the property of having a harsh unpleasant taste
+make bitter",1,1
+boredom,boredom,the feeling of being bored by something tedious,239,TRUE,noun,1,the feeling of being bored by something tedious,,
+boredoms,boredom,the feeling of being bored by something tedious,241,FALSE,noun,1,the feeling of being bored by something tedious,,
+calm,calmness,a feeling of calm; an absence of agitation or excitement,245,FALSE,verb,8,"steadiness of mind under stress
+wind moving at less than 1 knot; 0 on the Beaufort scale
+make calm or still
+make steady
+become quiet or calm, especially after a state of agitation
+cause to be calm or quiet as by administering a sedative to
+not agitated; without losing self-possession
+(of weather) free from storm or wind",,
+calmed,calmness,a feeling of calm; an absence of agitation or excitement,246,FALSE,verb,4,"make calm or still
+make steady
+become quiet or calm, especially after a state of agitation
+cause to be calm or quiet as by administering a sedative to",,
+calming,calmness,a feeling of calm; an absence of agitation or excitement,247,FALSE,verb,5,"the act of appeasing (as by acceding to the demands of)
+make calm or still
+make steady
+become quiet or calm, especially after a state of agitation
+cause to be calm or quiet as by administering a sedative to",,
+calmly,calmness,a feeling of calm; an absence of agitation or excitement,248,FALSE,adverb,2,"with self-possession (especially in times of stress)
+in a sedate manner",,
+calmness,calmness,a feeling of calm; an absence of agitation or excitement,242,TRUE,noun,3,"steadiness of mind under stress
+an absence of strong winds or rain
+a feeling of calm; an absence of agitation or excitement",,
+calmnesses,calmness,a feeling of calm; an absence of agitation or excitement,250,FALSE,noun,3,"steadiness of mind under stress
+an absence of strong winds or rain
+a feeling of calm; an absence of agitation or excitement",,
+calms,calmness,a feeling of calm; an absence of agitation or excitement,252,FALSE,verb,6,"steadiness of mind under stress
+wind moving at less than 1 knot; 0 on the Beaufort scale
+make calm or still
+make steady
+become quiet or calm, especially after a state of agitation
+cause to be calm or quiet as by administering a sedative to",,
+care,caring,a loving feeling,264,FALSE,verb,11,"the work of providing treatment for or attending to someone or something
+judiciousness in avoiding harm or danger
+an anxious feeling
+a cause for feeling concern
+attention and management implying responsibility for safety
+activity involved in maintaining something in good working order
+feel concern or interest
+provide care for
+prefer or wish to do something
+be in charge of, act on, or dispose of
+be concerned with",1,1
+cared,caring,a loving feeling,265,FALSE,verb,5,"feel concern or interest
+provide care for
+prefer or wish to do something
+be in charge of, act on, or dispose of
+be concerned with",1,0
+cares,caring,a loving feeling,267,FALSE,verb,11,"the work of providing treatment for or attending to someone or something
+judiciousness in avoiding harm or danger
+an anxious feeling
+a cause for feeling concern
+attention and management implying responsibility for safety
+activity involved in maintaining something in good working order
+feel concern or interest
+provide care for
+prefer or wish to do something
+be in charge of, act on, or dispose of
+be concerned with",1,0
+caring,caring,a loving feeling,262,TRUE,noun,7,"a loving feeling
+feel concern or interest
+provide care for
+prefer or wish to do something
+be in charge of, act on, or dispose of
+be concerned with
+feeling and exhibiting concern and empathy for others",1,1
+carings,caring,a loving feeling,271,FALSE,noun,6,"a loving feeling
+feel concern or interest
+provide care for
+prefer or wish to do something
+be in charge of, act on, or dispose of
+be concerned with",1,1
+cheerful,cheerfulness,a feeling of spontaneous good spirits,273,FALSE,adjective,2,"being full of or promoting cheer; having or showing good spirits
+pleasantly (even unrealistically) optimistic",,
+cheerfulness,cheerfulness,a feeling of spontaneous good spirits,272,TRUE,noun,2,"the quality of being cheerful and dispelling gloom
+a feeling of spontaneous good spirits",,
+cheerfulnesses,cheerfulness,a feeling of spontaneous good spirits,275,FALSE,noun,2,"the quality of being cheerful and dispelling gloom
+a feeling of spontaneous good spirits",,
+compassion,compassion,a deep awareness of and sympathy for another's suffering,276,TRUE,noun,2,"a deep awareness of and sympathy for another's suffering
+the humane quality of understanding the suffering of others and wanting to do something about it",,
+compassionate,compassion,a deep awareness of and sympathy for another's suffering,278,FALSE,adjective,2,"share the suffering of
+showing or having compassion",,
+compassionately,compassion,a deep awareness of and sympathy for another's suffering,280,FALSE,adverb,1,in a compassionate manner,,
+compassionateness,compassion,a deep awareness of and sympathy for another's suffering,281,FALSE,noun,1,a deep awareness of and sympathy for another's suffering,,
+compassionatenesses,compassion,a deep awareness of and sympathy for another's suffering,282,FALSE,noun,1,a deep awareness of and sympathy for another's suffering,,
+compassions,compassion,a deep awareness of and sympathy for another's suffering,283,FALSE,noun,2,"a deep awareness of and sympathy for another's suffering
+the humane quality of understanding the suffering of others and wanting to do something about it",,
+complacence,complacency,the feeling you have when you are satisfied with yourself,285,FALSE,noun,1,the feeling you have when you are satisfied with yourself,,
+complacences,complacency,the feeling you have when you are satisfied with yourself,286,FALSE,noun,1,the feeling you have when you are satisfied with yourself,,
+complacencies,complacency,the feeling you have when you are satisfied with yourself,287,FALSE,noun,1,the feeling you have when you are satisfied with yourself,,
+complacency,complacency,the feeling you have when you are satisfied with yourself,284,TRUE,noun,1,the feeling you have when you are satisfied with yourself,,
+complacent,complacency,the feeling you have when you are satisfied with yourself,289,FALSE,adjective,1,contented to a fault with oneself or one's actions,,
+complacently,complacency,the feeling you have when you are satisfied with yourself,290,FALSE,adverb,1,in a self-satisfied manner,,
+contempt,contempt,lack of respect accompanied by a feeling of intense dislike,291,TRUE,noun,4,"lack of respect accompanied by a feeling of intense dislike
+a manner that is generally disrespectful and contemptuous
+open disrespect for a person or thing
+a willful disobedience to or disrespect for the authority of a court or legislative body",,
+contempts,contempt,lack of respect accompanied by a feeling of intense dislike,293,FALSE,noun,4,"lack of respect accompanied by a feeling of intense dislike
+a manner that is generally disrespectful and contemptuous
+open disrespect for a person or thing
+a willful disobedience to or disrespect for the authority of a court or legislative body",,
+contemptuous,contempt,lack of respect accompanied by a feeling of intense dislike,294,FALSE,adjective,1,expressing extreme contempt,,
+contemptuously,contempt,lack of respect accompanied by a feeling of intense dislike,295,FALSE,adverb,1,without respect; in a disdainful manner,,
+contemptuousness,contempt,lack of respect accompanied by a feeling of intense dislike,296,FALSE,noun,1,the manifestation of scorn and contempt,,
+contemptuousnesses,contempt,lack of respect accompanied by a feeling of intense dislike,297,FALSE,noun,1,the manifestation of scorn and contempt,,
+contain,contentment,happiness with one's situation in life,299,FALSE,verb,6,"include or contain; have as a component
+contain or hold; have within
+lessen the intensity of; temper; hold in restraint; hold or keep within limits
+be divisible by
+be capable of holding or containing
+hold back, as of a danger or an enemy; check the expansion or influence of",1,1
+contained,contentment,happiness with one's situation in life,300,FALSE,verb,7,"include or contain; have as a component
+contain or hold; have within
+lessen the intensity of; temper; hold in restraint; hold or keep within limits
+be divisible by
+be capable of holding or containing
+hold back, as of a danger or an enemy; check the expansion or influence of
+gotten under control",1,1
+container,contentment,happiness with one's situation in life,301,FALSE,noun,1,any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another),1,1
+containerise,contentment,happiness with one's situation in life,302,FALSE,verb,1,package in a container,1,1
+containerize,contentment,happiness with one's situation in life,303,FALSE,verb,1,package in a container,1,1
+containerized,contentment,happiness with one's situation in life,304,FALSE,verb,1,package in a container,1,1
+containerizes,contentment,happiness with one's situation in life,305,FALSE,verb,1,package in a container,1,1
+containerizing,contentment,happiness with one's situation in life,306,FALSE,verb,1,package in a container,1,1
+containers,contentment,happiness with one's situation in life,307,FALSE,noun,1,any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another),1,1
+containing,contentment,happiness with one's situation in life,308,FALSE,verb,6,"include or contain; have as a component
+contain or hold; have within
+lessen the intensity of; temper; hold in restraint; hold or keep within limits
+be divisible by
+be capable of holding or containing
+hold back, as of a danger or an enemy; check the expansion or influence of",1,1
+containment,contentment,happiness with one's situation in life,309,FALSE,noun,3,"a policy of creating strategic alliances in order to check the expansion of a hostile power or ideology or to force it to negotiate peacefully
+(physics) a system designed to prevent the accidental release of radioactive material from a reactor
+the act of containing; keeping something from spreading",1,1
+containments,contentment,happiness with one's situation in life,310,FALSE,noun,3,"a policy of creating strategic alliances in order to check the expansion of a hostile power or ideology or to force it to negotiate peacefully
+(physics) a system designed to prevent the accidental release of radioactive material from a reactor
+the act of containing; keeping something from spreading",1,1
+contains,contentment,happiness with one's situation in life,311,FALSE,verb,6,"include or contain; have as a component
+contain or hold; have within
+lessen the intensity of; temper; hold in restraint; hold or keep within limits
+be divisible by
+be capable of holding or containing
+hold back, as of a danger or an enemy; check the expansion or influence of",1,1
+content,contentment,happiness with one's situation in life,313,FALSE,adjective,10,"everything that is included in a collection and that is held or included in something
+what a communication that is about something is about
+the proportion of a substance that is contained in a mixture or alloy etc.
+the amount that can be contained
+the sum or range of what has been perceived, discovered, or learned
+the state of being contented with your situation in life
+something (a person or object or scene) selected by an artist or photographer for graphic representation
+satisfy in a limited way
+make content
+satisfied or showing satisfaction with things as they are",1,1
+contented,contentment,happiness with one's situation in life,315,FALSE,verb,3,"satisfy in a limited way
+make content
+satisfied or showing satisfaction with things as they are",,
+contenting,contentment,happiness with one's situation in life,316,FALSE,verb,2,"satisfy in a limited way
+make content",,
+contentment,contentment,happiness with one's situation in life,298,TRUE,noun,1,happiness with one's situation in life,,
+contentments,contentment,happiness with one's situation in life,318,FALSE,noun,1,happiness with one's situation in life,,
+contents,contentment,happiness with one's situation in life,320,FALSE,verb,10,"a list of divisions (chapters or articles) and the pages on which they start
+everything that is included in a collection and that is held or included in something
+what a communication that is about something is about
+the proportion of a substance that is contained in a mixture or alloy etc.
+the amount that can be contained
+the sum or range of what has been perceived, discovered, or learned
+the state of being contented with your situation in life
+something (a person or object or scene) selected by an artist or photographer for graphic representation
+satisfy in a limited way
+make content",1,1
+continence,contentment,happiness with one's situation in life,321,FALSE,noun,2,"the exercise of self constraint in sexual matters
+voluntary control over urinary and fecal discharge",1,1
+continences,contentment,happiness with one's situation in life,322,FALSE,noun,2,"the exercise of self constraint in sexual matters
+voluntary control over urinary and fecal discharge",1,1
+continencies,contentment,happiness with one's situation in life,323,FALSE,noun,1,the exercise of self constraint in sexual matters,1,1
+continency,contentment,happiness with one's situation in life,324,FALSE,noun,1,the exercise of self constraint in sexual matters,1,1
+continent,contentment,happiness with one's situation in life,325,FALSE,noun,4,"one of the large landmasses of the earth
+the European mainland
+having control over urination and defecation
+abstaining from sexual intercourse",1,1
+continental,contentment,happiness with one's situation in life,327,FALSE,adjective,4,"of or pertaining to or typical of Europe
+of or relating to or concerning the American colonies during and immediately after the American Revolutionary War
+of or relating to or characteristic of a continent
+being or concerning or limited to a continent especially the continents of North America or Europe",1,1
+continents,contentment,happiness with one's situation in life,328,FALSE,noun,2,"one of the large landmasses of the earth
+the European mainland",1,1
+crave,craving,an intense desire for some particular thing,330,FALSE,verb,2,"have a craving, appetite, or great desire for
+plead or ask for earnestly",,
+craved,craving,an intense desire for some particular thing,331,FALSE,verb,3,"have a craving, appetite, or great desire for
+plead or ask for earnestly
+wanted intensely",,
+craves,craving,an intense desire for some particular thing,332,FALSE,verb,2,"have a craving, appetite, or great desire for
+plead or ask for earnestly",,
+craving,craving,an intense desire for some particular thing,329,TRUE,noun,3,"an intense desire for some particular thing
+have a craving, appetite, or great desire for
+plead or ask for earnestly",,
+cravings,craving,an intense desire for some particular thing,335,FALSE,noun,3,"an intense desire for some particular thing
+have a craving, appetite, or great desire for
+plead or ask for earnestly",,
+defeat,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,336,TRUE,noun,4,"an unsuccessful ending to a struggle or contest
+the feeling that accompanies an experience of being thwarted in attaining your goals
+win a victory over
+thwart the passage of",1,1
+defeated,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,339,FALSE,verb,5,"people who are defeated
+win a victory over
+thwart the passage of
+beaten or overcome; not victorious
+disappointingly unsuccessful",1,1
+defeating,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,340,FALSE,verb,2,"win a victory over
+thwart the passage of",1,1
+defeatism,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,341,FALSE,noun,1,acceptance of the inevitability of defeat,,
+defeatisms,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,342,FALSE,noun,1,acceptance of the inevitability of defeat,,
+defeatist,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,343,FALSE,noun,1,someone who is resigned to defeat without offering positive suggestions,,
+defeatists,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,344,FALSE,noun,1,someone who is resigned to defeat without offering positive suggestions,,
+defeats,defeat,the feeling that accompanies an experience of being thwarted in attaining your goals,346,FALSE,verb,4,"an unsuccessful ending to a struggle or contest
+the feeling that accompanies an experience of being thwarted in attaining your goals
+win a victory over
+thwart the passage of",1,1
+delight,delight,a feeling of extreme pleasure or satisfaction,368,TRUE,noun,5,"a feeling of extreme pleasure or satisfaction
+something or someone that provides a source of happiness
+give pleasure to or be pleasing to
+take delight in
+hold spellbound",,
+delighted,delight,a feeling of extreme pleasure or satisfaction,371,FALSE,verb,5,"give pleasure to or be pleasing to
+take delight in
+hold spellbound
+greatly pleased
+filled with wonder and delight",,
+delighting,delight,a feeling of extreme pleasure or satisfaction,372,FALSE,verb,3,"give pleasure to or be pleasing to
+take delight in
+hold spellbound",,
+delights,delight,a feeling of extreme pleasure or satisfaction,374,FALSE,verb,5,"a feeling of extreme pleasure or satisfaction
+something or someone that provides a source of happiness
+give pleasure to or be pleasing to
+take delight in
+hold spellbound",,
+depress,depression,sad feelings of gloom and inadequacy,384,FALSE,verb,5,"lower someone's spirits; make downhearted
+lower (prices or markets)
+cause to drop or sink
+press down
+lessen the activity or force of",,
+depressant,depression,sad feelings of gloom and inadequacy,385,FALSE,noun,2,"a drug that reduces excitability and calms a person
+capable of depressing physiological or psychological activity or response by a chemical agent",1,1
+depressants,depression,sad feelings of gloom and inadequacy,387,FALSE,noun,1,a drug that reduces excitability and calms a person,1,1
+depressed,depression,sad feelings of gloom and inadequacy,388,FALSE,verb,8,"lower someone's spirits; make downhearted
+lower (prices or markets)
+cause to drop or sink
+press down
+lessen the activity or force of
+lower than previously
+flattened downward as if pressed from above or flattened along the dorsal and ventral surfaces
+filled with melancholy and despondency",,
+depresses,depression,sad feelings of gloom and inadequacy,389,FALSE,verb,5,"lower someone's spirits; make downhearted
+lower (prices or markets)
+cause to drop or sink
+press down
+lessen the activity or force of",,
+depressing,depression,sad feelings of gloom and inadequacy,390,FALSE,verb,6,"lower someone's spirits; make downhearted
+lower (prices or markets)
+cause to drop or sink
+press down
+lessen the activity or force of
+causing sad feelings of gloom and inadequacy",,
+depression,depression,sad feelings of gloom and inadequacy,383,TRUE,noun,10,"a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity
+a long-term economic state characterized by unemployment and low prices and low levels of trade and investment
+a sunken or depressed geological formation
+sad feelings of gloom and inadequacy
+a period during the 1930s when there was a worldwide economic depression and mass unemployment
+an air mass of lower pressure; often brings precipitation
+a state of depression and anhedonia so severe as to require clinical intervention
+a concavity in a surface produced by pressing
+angular distance below the horizon (especially of a celestial object)
+pushing down",,
+depressions,depression,sad feelings of gloom and inadequacy,392,FALSE,noun,10,"a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity
+a long-term economic state characterized by unemployment and low prices and low levels of trade and investment
+a sunken or depressed geological formation
+sad feelings of gloom and inadequacy
+a period during the 1930s when there was a worldwide economic depression and mass unemployment
+an air mass of lower pressure; often brings precipitation
+a state of depression and anhedonia so severe as to require clinical intervention
+a concavity in a surface produced by pressing
+angular distance below the horizon (especially of a celestial object)
+pushing down",,
+depressor,depression,sad feelings of gloom and inadequacy,393,FALSE,noun,3,"any skeletal muscle that draws a body part down
+any nerve whose activity tends to reduce the activity or tone of the body part it serves
+a device used by physician to press a part down or aside",1,1
+depressors,depression,sad feelings of gloom and inadequacy,394,FALSE,noun,3,"any skeletal muscle that draws a body part down
+any nerve whose activity tends to reduce the activity or tone of the body part it serves
+a device used by physician to press a part down or aside",1,1
+desire,desire,the feeling that accompanies an unsatisfied state,395,TRUE,noun,6,"the feeling that accompanies an unsatisfied state
+an inclination to want things
+something that is desired
+feel or have a desire for; want strongly
+expect and wish
+express a desire for",,
+desired,desire,the feeling that accompanies an unsatisfied state,398,FALSE,verb,5,"feel or have a desire for; want strongly
+expect and wish
+express a desire for
+greatly desired
+wanted intensely",,
+desires,desire,the feeling that accompanies an unsatisfied state,400,FALSE,verb,6,"the feeling that accompanies an unsatisfied state
+an inclination to want things
+something that is desired
+feel or have a desire for; want strongly
+expect and wish
+express a desire for",,
+desiring,desire,the feeling that accompanies an unsatisfied state,401,FALSE,verb,3,"feel or have a desire for; want strongly
+expect and wish
+express a desire for",,
+desirous,desire,the feeling that accompanies an unsatisfied state,402,FALSE,adjective,1,having or expressing desire for something,,
+despair,despair,the feeling that everything is wrong and nothing will turn out well,403,TRUE,noun,3,"a state in which all hope is lost or absent
+the feeling that everything is wrong and nothing will turn out well
+abandon hope; give up hope; lose heart",,
+despaired,despair,the feeling that everything is wrong and nothing will turn out well,406,FALSE,verb,1,abandon hope; give up hope; lose heart,,
+despairing,despair,the feeling that everything is wrong and nothing will turn out well,407,FALSE,verb,2,"abandon hope; give up hope; lose heart
+arising from or marked by despair or loss of hope",,
+despairs,despair,the feeling that everything is wrong and nothing will turn out well,408,FALSE,noun,3,"a state in which all hope is lost or absent
+the feeling that everything is wrong and nothing will turn out well
+abandon hope; give up hope; lose heart",,
+desperate,despair,the feeling that everything is wrong and nothing will turn out well,411,FALSE,adjective,7,"a person who is frightened and in need of help
+arising from or marked by despair or loss of hope
+desperately determined
+(of persons) dangerously reckless or violent as from urgency or despair
+showing extreme courage; especially of actions courageously undertaken in desperation as a last resort; ; - G.C.Marshall
+showing extreme urgency or intensity especially because of great need or desire
+fraught with extreme danger; nearly hopeless; ; - G.C.Marshall",,
+desperately,despair,the feeling that everything is wrong and nothing will turn out well,412,FALSE,adverb,2,"with great urgency
+in intense despair",,
+desperates,despair,the feeling that everything is wrong and nothing will turn out well,413,FALSE,noun,1,a person who is frightened and in need of help,,
+desperation,despair,the feeling that everything is wrong and nothing will turn out well,414,FALSE,noun,2,"a state in which all hope is lost or absent
+desperate recklessness",,
+desperations,despair,the feeling that everything is wrong and nothing will turn out well,415,FALSE,noun,2,"a state in which all hope is lost or absent
+desperate recklessness",,
+disappoint,disappointment,a feeling of dissatisfaction that results when your expectations are not realized,440,FALSE,verb,1,fail to meet the hopes or expectations of,,
+disappointed,disappointment,a feeling of dissatisfaction that results when your expectations are not realized,441,FALSE,verb,2,"fail to meet the hopes or expectations of
+disappointingly unsuccessful",,
+disappointing,disappointment,a feeling of dissatisfaction that results when your expectations are not realized,442,FALSE,verb,2,"fail to meet the hopes or expectations of
+not up to expectations",,
+disappointment,disappointment,a feeling of dissatisfaction that results when your expectations are not realized,439,TRUE,noun,2,"a feeling of dissatisfaction that results when your expectations are not realized
+an act (or failure to act) that disappoints someone",,
+disappointments,disappointment,a feeling of dissatisfaction that results when your expectations are not realized,444,FALSE,noun,2,"a feeling of dissatisfaction that results when your expectations are not realized
+an act (or failure to act) that disappoints someone",,
+disappoints,disappointment,a feeling of dissatisfaction that results when your expectations are not realized,445,FALSE,verb,1,fail to meet the hopes or expectations of,,
+discomfort,discomfort,an uncomfortable feeling of mental painfulness or distress,446,TRUE,noun,2,"the state of being tense and feeling pain
+an uncomfortable feeling of mental painfulness or distress",,
+discomforts,discomfort,an uncomfortable feeling of mental painfulness or distress,448,FALSE,noun,2,"the state of being tense and feeling pain
+an uncomfortable feeling of mental painfulness or distress",,
+discontent,discontent,a longing for something better than the present situation,449,TRUE,adjective,3,"a longing for something better than the present situation
+make dissatisfied
+showing or experiencing dissatisfaction or restless longing",,
+discontented,discontent,a longing for something better than the present situation,453,FALSE,verb,2,"make dissatisfied
+showing or experiencing dissatisfaction or restless longing",,
+discontenting,discontent,a longing for something better than the present situation,454,FALSE,verb,1,make dissatisfied,,
+discontentment,discontent,a longing for something better than the present situation,455,FALSE,noun,1,a longing for something better than the present situation,,
+discontentments,discontent,a longing for something better than the present situation,456,FALSE,noun,1,a longing for something better than the present situation,,
+discontents,discontent,a longing for something better than the present situation,458,FALSE,verb,2,"a longing for something better than the present situation
+make dissatisfied",,
+discourage,discouragement,the feeling of despair in the face of obstacles,460,FALSE,verb,3,"try to prevent; show opposition to
+deprive of courage or hope; take away hope from; cause to feel discouraged
+admonish or counsel in terms of someone's behavior",1,1
+discouraged,discouragement,the feeling of despair in the face of obstacles,461,FALSE,verb,5,"try to prevent; show opposition to
+deprive of courage or hope; take away hope from; cause to feel discouraged
+admonish or counsel in terms of someone's behavior
+made less hopeful or enthusiastic
+lacking in resolution",1,1
+discouragement,discouragement,the feeling of despair in the face of obstacles,459,TRUE,noun,3,"the feeling of despair in the face of obstacles
+the expression of opposition and disapproval
+the act of discouraging",1,0
+discouragements,discouragement,the feeling of despair in the face of obstacles,463,FALSE,noun,3,"the feeling of despair in the face of obstacles
+the expression of opposition and disapproval
+the act of discouraging",1,0
+discourages,discouragement,the feeling of despair in the face of obstacles,464,FALSE,verb,3,"try to prevent; show opposition to
+deprive of courage or hope; take away hope from; cause to feel discouraged
+admonish or counsel in terms of someone's behavior",1,1
+discouraging,discouragement,the feeling of despair in the face of obstacles,465,FALSE,verb,5,"try to prevent; show opposition to
+deprive of courage or hope; take away hope from; cause to feel discouraged
+admonish or counsel in terms of someone's behavior
+depriving of confidence or hope or enthusiasm and hence often deterring action
+expressing disapproval",1,1
+disgust,disgust,strong feelings of dislike,474,TRUE,noun,3,"strong feelings of dislike
+fill with distaste
+cause aversion in; offend the moral sense of",,
+disgusted,disgust,strong feelings of dislike,477,FALSE,verb,3,"fill with distaste
+cause aversion in; offend the moral sense of
+having a strong distaste from surfeit",,
+disgusting,disgust,strong feelings of dislike,478,FALSE,verb,3,"fill with distaste
+cause aversion in; offend the moral sense of
+highly offensive; arousing aversion or disgust",,
+disgusts,disgust,strong feelings of dislike,479,FALSE,noun,3,"strong feelings of dislike
+fill with distaste
+cause aversion in; offend the moral sense of",,
+dislike,dislike,a feeling of aversion or antipathy,481,TRUE,noun,3,"an inclination to withhold approval from some person or group
+a feeling of aversion or antipathy
+have or feel a dislike or distaste for",,
+disliked,dislike,a feeling of aversion or antipathy,484,FALSE,verb,2,"have or feel a dislike or distaste for
+regarded with aversion",,
+dislikes,dislike,a feeling of aversion or antipathy,486,FALSE,verb,3,"an inclination to withhold approval from some person or group
+a feeling of aversion or antipathy
+have or feel a dislike or distaste for",,
+disliking,dislike,a feeling of aversion or antipathy,487,FALSE,verb,1,have or feel a dislike or distaste for,,
+dismay,dismay,the feeling of despair in the face of obstacles,488,TRUE,noun,4,"the feeling of despair in the face of obstacles
+fear resulting from the awareness of danger
+lower someone's spirits; make downhearted
+fill with apprehension or alarm; cause to be unpleasantly surprised",,
+dismayed,dismay,the feeling of despair in the face of obstacles,491,FALSE,verb,3,"lower someone's spirits; make downhearted
+fill with apprehension or alarm; cause to be unpleasantly surprised
+struck with fear, dread, or consternation",,
+dismaying,dismay,the feeling of despair in the face of obstacles,492,FALSE,verb,3,"lower someone's spirits; make downhearted
+fill with apprehension or alarm; cause to be unpleasantly surprised
+causing consternation",,
+dismays,dismay,the feeling of despair in the face of obstacles,494,FALSE,verb,4,"the feeling of despair in the face of obstacles
+fear resulting from the awareness of danger
+lower someone's spirits; make downhearted
+fill with apprehension or alarm; cause to be unpleasantly surprised",,
+displease,displeasure,the feeling of being displeased or annoyed or dissatisfied with someone or something,496,FALSE,verb,1,give displeasure to,,
+displeased,displeasure,the feeling of being displeased or annoyed or dissatisfied with someone or something,497,FALSE,verb,2,"give displeasure to
+not pleased; experiencing or manifesting displeasure",,
+displeases,displeasure,the feeling of being displeased or annoyed or dissatisfied with someone or something,498,FALSE,verb,1,give displeasure to,,
+displeasing,displeasure,the feeling of being displeased or annoyed or dissatisfied with someone or something,499,FALSE,verb,2,"give displeasure to
+causing displeasure or lacking pleasing qualities",,
+displeasure,displeasure,the feeling of being displeased or annoyed or dissatisfied with someone or something,495,TRUE,noun,1,the feeling of being displeased or annoyed or dissatisfied with someone or something,,
+displeasures,displeasure,the feeling of being displeased or annoyed or dissatisfied with someone or something,501,FALSE,noun,1,the feeling of being displeased or annoyed or dissatisfied with someone or something,,
+distress,distress,psychological suffering,509,TRUE,noun,6,"psychological suffering
+a state of adversity (danger or affliction or need)
+extreme physical pain
+the seizure and holding of property as security for payment of a debt or satisfaction of a claim
+bring into difficulties or distress, especially financial hardship
+cause mental pain to",,
+distressed,distress,psychological suffering,512,FALSE,verb,6,"bring into difficulties or distress, especially financial hardship
+cause mental pain to
+facing or experiencing financial trouble or difficulty
+generalized feeling of distress
+suffering severe physical strain or distress
+afflicted with or marked by anxious uneasiness or trouble or grief",,
+distresses,distress,psychological suffering,514,FALSE,verb,6,"psychological suffering
+a state of adversity (danger or affliction or need)
+extreme physical pain
+the seizure and holding of property as security for payment of a debt or satisfaction of a claim
+bring into difficulties or distress, especially financial hardship
+cause mental pain to",,
+distressing,distress,psychological suffering,515,FALSE,verb,4,"bring into difficulties or distress, especially financial hardship
+cause mental pain to
+causing distress or worry or anxiety
+bad; unfortunate",,
+dread,dread,fearful expectation or anticipation,525,TRUE,noun,3,"fearful expectation or anticipation
+be afraid or scared of; be frightened of
+causing fear or dread or terror",,
+dreaded,dread,fearful expectation or anticipation,529,FALSE,verb,2,"be afraid or scared of; be frightened of
+causing fear or dread or terror",,
+dreading,dread,fearful expectation or anticipation,530,FALSE,verb,1,be afraid or scared of; be frightened of,,
+dreads,dread,fearful expectation or anticipation,531,FALSE,noun,2,"fearful expectation or anticipation
+be afraid or scared of; be frightened of",,
+eager,eagerness,a positive feeling of wanting to push ahead with something,535,FALSE,adjective,2,"a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+having or showing keen interest or intense desire or impatient expectancy",,
+eagerly,eagerness,a positive feeling of wanting to push ahead with something,536,FALSE,adverb,1,with eagerness; in an eager manner,,
+eagerness,eagerness,a positive feeling of wanting to push ahead with something,533,TRUE,noun,2,"a positive feeling of wanting to push ahead with something
+prompt willingness",,
+eagernesses,eagerness,a positive feeling of wanting to push ahead with something,538,FALSE,noun,2,"a positive feeling of wanting to push ahead with something
+prompt willingness",,
+eagers,eagerness,a positive feeling of wanting to push ahead with something,539,FALSE,noun,1,a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary),,
+ecstasies,ecstasy,a state of being carried away by overwhelming emotion; - Charles Dickens,541,FALSE,noun,3,"a state of being carried away by overwhelming emotion; - Charles Dickens
+a state of elated bliss
+street names for methylenedioxymethamphetamine",,
+ecstasy,ecstasy,a state of being carried away by overwhelming emotion; - Charles Dickens,540,TRUE,noun,3,"a state of being carried away by overwhelming emotion; - Charles Dickens
+a state of elated bliss
+street names for methylenedioxymethamphetamine",,
+ecstatic,ecstasy,a state of being carried away by overwhelming emotion; - Charles Dickens,543,FALSE,adjective,1,feeling great rapture or delight,,
+ecstatically,ecstasy,a state of being carried away by overwhelming emotion; - Charles Dickens,544,FALSE,adverb,1,in an ecstatic manner,,
+elate,elation,a feeling of joy and pride,560,FALSE,verb,1,fill with high spirits; fill with optimism,,
+elated,elation,a feeling of joy and pride,561,FALSE,verb,3,"fill with high spirits; fill with optimism
+exultantly proud and joyful; in high spirits
+full of high-spirited delight",,
+elates,elation,a feeling of joy and pride,562,FALSE,verb,1,fill with high spirits; fill with optimism,,
+elating,elation,a feeling of joy and pride,563,FALSE,verb,2,"fill with high spirits; fill with optimism
+making lively and joyful",,
+elation,elation,a feeling of joy and pride,559,TRUE,noun,2,"an exhilarating psychological state of pride and optimism; an absence of depression
+a feeling of joy and pride",,
+elations,elation,a feeling of joy and pride,565,FALSE,noun,2,"an exhilarating psychological state of pride and optimism; an absence of depression
+a feeling of joy and pride",,
+embarrass,embarrassment,the shame you feel when your inadequacy or guilt is made public,567,FALSE,verb,2,"cause to be embarrassed; cause to feel self-conscious
+hinder or prevent the progress or accomplishment of",,
+embarrassed,embarrassment,the shame you feel when your inadequacy or guilt is made public,568,FALSE,verb,4,"cause to be embarrassed; cause to feel self-conscious
+hinder or prevent the progress or accomplishment of
+feeling or caused to feel uneasy and self-conscious
+made to feel uncomfortable because of shame or wounded pride",,
+embarrasses,embarrassment,the shame you feel when your inadequacy or guilt is made public,569,FALSE,verb,2,"cause to be embarrassed; cause to feel self-conscious
+hinder or prevent the progress or accomplishment of",,
+embarrassing,embarrassment,the shame you feel when your inadequacy or guilt is made public,570,FALSE,verb,4,"cause to be embarrassed; cause to feel self-conscious
+hinder or prevent the progress or accomplishment of
+hard to deal with; especially causing pain or embarrassment
+causing to feel shame or chagrin or vexation",,
+embarrassment,embarrassment,the shame you feel when your inadequacy or guilt is made public,566,TRUE,noun,4,"the shame you feel when your inadequacy or guilt is made public
+the state of being embarrassed (usually by some financial inadequacy)
+some event that causes someone to be embarrassed
+extreme excess",,
+embarrassments,embarrassment,the shame you feel when your inadequacy or guilt is made public,572,FALSE,noun,4,"the shame you feel when your inadequacy or guilt is made public
+the state of being embarrassed (usually by some financial inadequacy)
+some event that causes someone to be embarrassed
+extreme excess",,
+enchant,enchantment,a feeling of great liking for something wonderful and unusual,574,FALSE,verb,3,"hold spellbound
+attract; cause to be enamored
+cast a spell over someone or something; put a hex on someone or something",,
+enchanted,enchantment,a feeling of great liking for something wonderful and unusual,575,FALSE,verb,4,"hold spellbound
+attract; cause to be enamored
+cast a spell over someone or something; put a hex on someone or something
+influenced as by charms or incantations",,
+enchanter,enchantment,a feeling of great liking for something wonderful and unusual,576,FALSE,noun,1,a sorcerer or magician,,
+enchanters,enchantment,a feeling of great liking for something wonderful and unusual,577,FALSE,noun,1,a sorcerer or magician,,
+enchanting,enchantment,a feeling of great liking for something wonderful and unusual,578,FALSE,verb,4,"hold spellbound
+attract; cause to be enamored
+cast a spell over someone or something; put a hex on someone or something
+capturing interest as if by a spell",,
+enchantment,enchantment,a feeling of great liking for something wonderful and unusual,573,TRUE,noun,3,"a feeling of great liking for something wonderful and unusual
+a psychological state induced by (or as if induced by) a magical incantation
+a magical spell",,
+enchantments,enchantment,a feeling of great liking for something wonderful and unusual,580,FALSE,noun,3,"a feeling of great liking for something wonderful and unusual
+a psychological state induced by (or as if induced by) a magical incantation
+a magical spell",,
+enchants,enchantment,a feeling of great liking for something wonderful and unusual,581,FALSE,verb,3,"hold spellbound
+attract; cause to be enamored
+cast a spell over someone or something; put a hex on someone or something",,
+encourage,encouragement,the feeling of being encouraged,583,FALSE,verb,3,"contribute to the progress or growth of
+inspire with confidence; give hope or courage to
+spur on",,
+encouraged,encouragement,the feeling of being encouraged,584,FALSE,verb,4,"contribute to the progress or growth of
+inspire with confidence; give hope or courage to
+spur on
+inspired with confidence",,
+encouragement,encouragement,the feeling of being encouraged,582,TRUE,noun,3,"the expression of approval and support
+the act of giving hope or support to someone
+the feeling of being encouraged",,
+encouragements,encouragement,the feeling of being encouraged,586,FALSE,noun,3,"the expression of approval and support
+the act of giving hope or support to someone
+the feeling of being encouraged",,
+encourages,encouragement,the feeling of being encouraged,587,FALSE,verb,3,"contribute to the progress or growth of
+inspire with confidence; give hope or courage to
+spur on",,
+encouraging,encouragement,the feeling of being encouraged,588,FALSE,verb,5,"contribute to the progress or growth of
+inspire with confidence; give hope or courage to
+spur on
+giving courage or confidence or hope
+furnishing support and encouragement",,
+enjoy,enjoyment,the pleasure felt when having a good time,590,FALSE,verb,5,"derive or receive pleasure from; get enjoyment from; take pleasure in
+have benefit from
+get pleasure from
+have for one's benefit
+take delight in",,
+enjoyed,enjoyment,the pleasure felt when having a good time,591,FALSE,verb,5,"derive or receive pleasure from; get enjoyment from; take pleasure in
+have benefit from
+get pleasure from
+have for one's benefit
+take delight in",,
+enjoyer,enjoyment,the pleasure felt when having a good time,592,FALSE,noun,1,a person who delights in having or using or experiencing something,,
+enjoyers,enjoyment,the pleasure felt when having a good time,593,FALSE,noun,1,a person who delights in having or using or experiencing something,,
+enjoying,enjoyment,the pleasure felt when having a good time,594,FALSE,verb,5,"derive or receive pleasure from; get enjoyment from; take pleasure in
+have benefit from
+get pleasure from
+have for one's benefit
+take delight in",,
+enjoyment,enjoyment,the pleasure felt when having a good time,589,TRUE,noun,3,"the pleasure felt when having a good time
+act of receiving pleasure from something
+(law) the exercise of the legal right to enjoy the benefits of owning property",,
+enjoyments,enjoyment,the pleasure felt when having a good time,596,FALSE,noun,3,"the pleasure felt when having a good time
+act of receiving pleasure from something
+(law) the exercise of the legal right to enjoy the benefits of owning property",,
+enjoys,enjoyment,the pleasure felt when having a good time,597,FALSE,verb,5,"derive or receive pleasure from; get enjoyment from; take pleasure in
+have benefit from
+get pleasure from
+have for one's benefit
+take delight in",,
+enthusiasm,enthusiasm,a feeling of excitement,601,TRUE,noun,3,"a feeling of excitement
+overflowing with eager enjoyment or approval
+a lively interest",,
+enthusiasms,enthusiasm,a feeling of excitement,603,FALSE,noun,3,"a feeling of excitement
+overflowing with eager enjoyment or approval
+a lively interest",,
+enthusiastic,enthusiasm,a feeling of excitement,604,FALSE,adjective,1,having or showing great excitement and interest,,
+enthusiastically,enthusiasm,a feeling of excitement,605,FALSE,adverb,2,"with enthusiasm; in an enthusiastic manner
+in a lavish or enthusiastic manner",,
+envied,envy,a feeling of grudging admiration and desire to have something that is possessed by another,607,FALSE,verb,2,"feel envious towards; admire enviously
+be envious of; set one's heart on",,
+envies,envy,a feeling of grudging admiration and desire to have something that is possessed by another,609,FALSE,verb,4,"a feeling of grudging admiration and desire to have something that is possessed by another
+spite and resentment at seeing the success of another (personified as one of the deadly sins)
+feel envious towards; admire enviously
+be envious of; set one's heart on",,
+envious,envy,a feeling of grudging admiration and desire to have something that is possessed by another,610,FALSE,adjective,1,showing extreme cupidity; painfully desirous of another's advantages,,
+enviously,envy,a feeling of grudging admiration and desire to have something that is possessed by another,611,FALSE,adverb,1,with jealousy; in an envious manner,,
+enviousness,envy,a feeling of grudging admiration and desire to have something that is possessed by another,612,FALSE,noun,1,a feeling of grudging admiration and desire to have something that is possessed by another,,
+enviousnesses,envy,a feeling of grudging admiration and desire to have something that is possessed by another,613,FALSE,noun,1,a feeling of grudging admiration and desire to have something that is possessed by another,,
+envy,envy,a feeling of grudging admiration and desire to have something that is possessed by another,606,TRUE,noun,4,"a feeling of grudging admiration and desire to have something that is possessed by another
+spite and resentment at seeing the success of another (personified as one of the deadly sins)
+feel envious towards; admire enviously
+be envious of; set one's heart on",,
+envying,envy,a feeling of grudging admiration and desire to have something that is possessed by another,616,FALSE,verb,2,"feel envious towards; admire enviously
+be envious of; set one's heart on",,
+euphoria,euphoria,a feeling of great (usually exaggerated) elation,617,TRUE,noun,1,a feeling of great (usually exaggerated) elation,,
+euphorias,euphoria,a feeling of great (usually exaggerated) elation,619,FALSE,noun,1,a feeling of great (usually exaggerated) elation,,
+exasperate,exasperation,an exasperated feeling of annoyance,621,FALSE,verb,3,"exasperate or irritate
+make furious
+make worse",,
+exasperated,exasperation,an exasperated feeling of annoyance,622,FALSE,verb,4,"exasperate or irritate
+make furious
+make worse
+greatly annoyed; out of patience",,
+exasperates,exasperation,an exasperated feeling of annoyance,623,FALSE,verb,3,"exasperate or irritate
+make furious
+make worse",,
+exasperating,exasperation,an exasperated feeling of annoyance,624,FALSE,verb,5,"exasperate or irritate
+make furious
+make worse
+extremely annoying or displeasing
+making worse",,
+exasperation,exasperation,an exasperated feeling of annoyance,620,TRUE,noun,2,"an exasperated feeling of annoyance
+actions that cause great irritation (or even anger)",,
+exasperations,exasperation,an exasperated feeling of annoyance,626,FALSE,noun,2,"an exasperated feeling of annoyance
+actions that cause great irritation (or even anger)",,
+excitant,excitement,the feeling of lively and cheerful joy,628,FALSE,noun,2,"a drug that temporarily quickens some vital process
+(of drugs e.g.) able to excite or stimulate",1,1
+excitants,excitement,the feeling of lively and cheerful joy,630,FALSE,noun,1,a drug that temporarily quickens some vital process,,
+excitation,excitement,the feeling of lively and cheerful joy,631,FALSE,noun,3,"the state of being emotionally aroused and worked up
+the neural or electrical arousal of an organ or muscle or gland
+something that agitates and arouses",,
+excitations,excitement,the feeling of lively and cheerful joy,632,FALSE,noun,3,"the state of being emotionally aroused and worked up
+the neural or electrical arousal of an organ or muscle or gland
+something that agitates and arouses",,
+excitatory,excitement,the feeling of lively and cheerful joy,633,FALSE,adjective,1,(of drugs e.g.) able to excite or stimulate,,
+excite,excitement,the feeling of lively and cheerful joy,634,FALSE,verb,8,"arouse or elicit a feeling
+act as a stimulant
+stir feelings in
+cause to be agitated, excited, or roused
+stimulate sexually
+stir the feelings, emotions, or peace of
+raise to a higher energy level
+produce a magnetic field in",,
+excited,excitement,the feeling of lively and cheerful joy,635,FALSE,verb,12,"arouse or elicit a feeling
+act as a stimulant
+stir feelings in
+cause to be agitated, excited, or roused
+stimulate sexually
+stir the feelings, emotions, or peace of
+raise to a higher energy level
+produce a magnetic field in
+(of persons) excessively affected by emotion
+in an aroused state
+marked by uncontrolled excitement or emotion
+(of e.g. a molecule) made reactive or more reactive",,
+excitement,excitement,the feeling of lively and cheerful joy,627,TRUE,noun,4,"the feeling of lively and cheerful joy
+the state of being emotionally aroused and worked up
+something that agitates and arouses
+disturbance usually in protest",,
+excitements,excitement,the feeling of lively and cheerful joy,637,FALSE,noun,4,"the feeling of lively and cheerful joy
+the state of being emotionally aroused and worked up
+something that agitates and arouses
+disturbance usually in protest",,
+excites,excitement,the feeling of lively and cheerful joy,638,FALSE,verb,8,"arouse or elicit a feeling
+act as a stimulant
+stir feelings in
+cause to be agitated, excited, or roused
+stimulate sexually
+stir the feelings, emotions, or peace of
+raise to a higher energy level
+produce a magnetic field in",,
+exciting,excitement,the feeling of lively and cheerful joy,639,FALSE,verb,10,"arouse or elicit a feeling
+act as a stimulant
+stir feelings in
+cause to be agitated, excited, or roused
+stimulate sexually
+stir the feelings, emotions, or peace of
+raise to a higher energy level
+produce a magnetic field in
+creating or arousing excitement
+stimulating interest and discussion",,
+exhilarate,exhilaration,the feeling of lively and cheerful joy,650,FALSE,verb,1,fill with sublime emotion,,
+exhilarated,exhilaration,the feeling of lively and cheerful joy,651,FALSE,verb,2,"fill with sublime emotion
+made joyful",,
+exhilarates,exhilaration,the feeling of lively and cheerful joy,652,FALSE,verb,1,fill with sublime emotion,,
+exhilarating,exhilaration,the feeling of lively and cheerful joy,653,FALSE,verb,3,"fill with sublime emotion
+making lively and cheerful
+making lively and joyful",,
+exhilaration,exhilaration,the feeling of lively and cheerful joy,649,TRUE,noun,1,the feeling of lively and cheerful joy,,
+exhilarations,exhilaration,the feeling of lively and cheerful joy,655,FALSE,noun,1,the feeling of lively and cheerful joy,,
+exuberance,exuberance,joyful enthusiasm,656,TRUE,noun,2,"joyful enthusiasm
+overflowing with eager enjoyment or approval",,
+exuberances,exuberance,joyful enthusiasm,658,FALSE,noun,2,"joyful enthusiasm
+overflowing with eager enjoyment or approval",,
+exuberant,exuberance,joyful enthusiasm,659,FALSE,adjective,3,"joyously unrestrained
+unrestrained, especially with regard to feelings
+produced or growing in extreme abundance",,
+exuberantly,exuberance,joyful enthusiasm,660,FALSE,adverb,2,"in an exuberant manner
+in an ebullient manner",,
+exuberate,exuberance,joyful enthusiasm,661,FALSE,verb,1,to express great joy,,
+exuberated,exuberance,joyful enthusiasm,662,FALSE,verb,1,to express great joy,,
+exuberates,exuberance,joyful enthusiasm,663,FALSE,verb,1,to express great joy,,
+exuberating,exuberance,joyful enthusiasm,664,FALSE,verb,1,to express great joy,,
+fear,fear,an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight),665,TRUE,noun,8,"an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+an anxious feeling
+a feeling of profound respect for someone or something
+be afraid or feel anxious or apprehensive about a possible or probable situation or event
+be afraid or scared of; be frightened of
+be sorry; used to introduce an unpleasant statement
+be uneasy or apprehensive about
+regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",,
+feared,fear,an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight),668,FALSE,verb,5,"be afraid or feel anxious or apprehensive about a possible or probable situation or event
+be afraid or scared of; be frightened of
+be sorry; used to introduce an unpleasant statement
+be uneasy or apprehensive about
+regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",,
+fearing,fear,an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight),669,FALSE,verb,5,"be afraid or feel anxious or apprehensive about a possible or probable situation or event
+be afraid or scared of; be frightened of
+be sorry; used to introduce an unpleasant statement
+be uneasy or apprehensive about
+regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",,
+fears,fear,an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight),670,FALSE,noun,8,"an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+an anxious feeling
+a feeling of profound respect for someone or something
+be afraid or feel anxious or apprehensive about a possible or probable situation or event
+be afraid or scared of; be frightened of
+be sorry; used to introduce an unpleasant statement
+be uneasy or apprehensive about
+regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",,
+fervor,fervor,feelings of great warmth and intensity,679,TRUE,noun,2,"feelings of great warmth and intensity
+the state of being emotionally aroused and worked up",,
+fervors,fervor,feelings of great warmth and intensity,681,FALSE,noun,2,"feelings of great warmth and intensity
+the state of being emotionally aroused and worked up",,
+fond,fondness,a predisposition to like something,688,FALSE,adjective,4,"having or displaying warmth or affection
+extravagantly or foolishly loving and indulgent
+(followed by `of' or `to') having a strong preference or liking for
+absurd or silly because unlikely",,
+fondly,fondness,a predisposition to like something,689,FALSE,adverb,1,with fondness; with love,,
+fondness,fondness,a predisposition to like something,687,TRUE,noun,3,"a predisposition to like something
+a positive feeling of liking
+a quality proceeding from feelings of affection or love",,
+fondnesses,fondness,a predisposition to like something,691,FALSE,noun,3,"a predisposition to like something
+a positive feeling of liking
+a quality proceeding from feelings of affection or love",,
+forgiveness,forgiveness,compassionate feelings that support a willingness to forgive,692,TRUE,noun,2,"compassionate feelings that support a willingness to forgive
+the act of excusing a mistake or offense",,
+forgivenesses,forgiveness,compassionate feelings that support a willingness to forgive,694,FALSE,noun,2,"compassionate feelings that support a willingness to forgive
+the act of excusing a mistake or offense",,
+fright,fright,an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight),704,TRUE,noun,2,"an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+cause fear in",,
+frights,fright,an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight),707,FALSE,noun,2,"an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+cause fear in",,
+frustrate,frustration,the feeling that accompanies an experience of being thwarted in attaining your goals,709,FALSE,verb,2,"hinder or prevent (the efforts, plans, or desires) of
+treat cruelly",,
+frustrated,frustration,the feeling that accompanies an experience of being thwarted in attaining your goals,710,FALSE,verb,3,"hinder or prevent (the efforts, plans, or desires) of
+treat cruelly
+disappointingly unsuccessful",,
+frustrates,frustration,the feeling that accompanies an experience of being thwarted in attaining your goals,711,FALSE,verb,2,"hinder or prevent (the efforts, plans, or desires) of
+treat cruelly",,
+frustrating,frustration,the feeling that accompanies an experience of being thwarted in attaining your goals,712,FALSE,verb,4,"hinder or prevent (the efforts, plans, or desires) of
+treat cruelly
+discouraging by hindering
+preventing realization or attainment of a desire",,
+frustration,frustration,the feeling that accompanies an experience of being thwarted in attaining your goals,708,TRUE,noun,3,"the feeling that accompanies an experience of being thwarted in attaining your goals
+an act of hindering someone's plans or efforts
+a feeling of annoyance at being hindered or criticized",,
+frustrations,frustration,the feeling that accompanies an experience of being thwarted in attaining your goals,714,FALSE,noun,3,"the feeling that accompanies an experience of being thwarted in attaining your goals
+an act of hindering someone's plans or efforts
+a feeling of annoyance at being hindered or criticized",,
+frustrative,frustration,the feeling that accompanies an experience of being thwarted in attaining your goals,715,FALSE,adjective,1,preventing realization or attainment of a desire,,
+furies,fury,a feeling of intense anger,717,FALSE,noun,4,"a feeling of intense anger
+state of violent mental agitation
+the property of being wild or turbulent
+(classical mythology) the hideous snake-haired monsters (usually three in number) who pursued unpunished criminals",,
+furious,fury,a feeling of intense anger,718,FALSE,adjective,3,"marked by extreme and violent energy
+marked by extreme anger
+(of the elements) as if showing violent anger",,
+furiously,fury,a feeling of intense anger,719,FALSE,adverb,3,"(of the elements) in a wild and stormy manner
+in a manner marked by extreme or violent energy
+in an impassioned or very angry manner",,
+furiousness,fury,a feeling of intense anger,720,FALSE,noun,1,the property of being wild or turbulent,,
+furiousnesses,fury,a feeling of intense anger,721,FALSE,noun,1,the property of being wild or turbulent,,
+fury,fury,a feeling of intense anger,716,TRUE,noun,4,"a feeling of intense anger
+state of violent mental agitation
+the property of being wild or turbulent
+(classical mythology) the hideous snake-haired monsters (usually three in number) who pursued unpunished criminals",,
+infuriate,fury,a feeling of intense anger,723,FALSE,verb,1,make furious,,
+infuriated,fury,a feeling of intense anger,724,FALSE,verb,2,"make furious
+marked by extreme anger",,
+infuriates,fury,a feeling of intense anger,725,FALSE,verb,1,make furious,,
+infuriating,fury,a feeling of intense anger,726,FALSE,verb,2,"make furious
+extremely annoying or displeasing",,
+infuriation,fury,a feeling of intense anger,727,FALSE,noun,1,a feeling of intense anger,,
+infuriations,fury,a feeling of intense anger,728,FALSE,noun,1,a feeling of intense anger,,
+gaieties,gaiety,a gay feeling,730,FALSE,noun,2,"a gay feeling
+a festive merry feeling",,
+gaiety,gaiety,a gay feeling,729,TRUE,noun,2,"a gay feeling
+a festive merry feeling",,
+glad,gladness,experiencing joy and pleasure,734,FALSE,adjective,5,"any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers; widely cultivated
+showing or causing joy and pleasure; especially made happy
+eagerly disposed to act or to be of service
+feeling happy appreciation
+cheerful and bright",,
+gladly,gladness,experiencing joy and pleasure,735,FALSE,adverb,1,in a willing manner,,
+gladness,gladness,experiencing joy and pleasure,732,TRUE,noun,1,experiencing joy and pleasure,,
+gladnesses,gladness,experiencing joy and pleasure,737,FALSE,noun,1,experiencing joy and pleasure,,
+glads,gladness,experiencing joy and pleasure,738,FALSE,noun,1,any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers; widely cultivated,,
+glee,glee,great merriment,739,TRUE,noun,2,"great merriment
+malicious satisfaction",,
+glees,glee,great merriment,741,FALSE,noun,2,"great merriment
+malicious satisfaction",,
+gloom,gloom,a feeling of melancholy apprehension,742,TRUE,noun,3,"a state of partial or total darkness
+a feeling of melancholy apprehension
+an atmosphere of depression and melancholy",,
+gloomily,gloom,a feeling of melancholy apprehension,744,FALSE,adverb,1,with gloom,,
+gloominess,gloom,a feeling of melancholy apprehension,745,FALSE,noun,3,"an atmosphere of depression and melancholy
+a feeling of melancholy apprehension
+the quality of excessive mournfulness and uncheerfulness",,
+gloominesses,gloom,a feeling of melancholy apprehension,746,FALSE,noun,3,"an atmosphere of depression and melancholy
+a feeling of melancholy apprehension
+the quality of excessive mournfulness and uncheerfulness",,
+glooms,gloom,a feeling of melancholy apprehension,747,FALSE,noun,3,"a state of partial or total darkness
+a feeling of melancholy apprehension
+an atmosphere of depression and melancholy",,
+gloomy,gloom,a feeling of melancholy apprehension,748,FALSE,adjective,3,"depressingly dark
+filled with melancholy and despondency
+causing dejection",,
+gratitude,gratitude,a feeling of thankfulness and appreciation,754,TRUE,noun,1,a feeling of thankfulness and appreciation,,
+gratitudes,gratitude,a feeling of thankfulness and appreciation,756,FALSE,noun,1,a feeling of thankfulness and appreciation,,
+grief,grief,intense sorrow caused by loss of a loved one (especially by death),757,TRUE,noun,2,"intense sorrow caused by loss of a loved one (especially by death)
+something that causes great unhappiness",,
+griefs,grief,intense sorrow caused by loss of a loved one (especially by death),759,FALSE,noun,2,"intense sorrow caused by loss of a loved one (especially by death)
+something that causes great unhappiness",,
+guilt,guilt,remorse caused by feeling responsible for some offense,776,TRUE,noun,2,"the state of having committed an offense
+remorse caused by feeling responsible for some offense",,
+guiltily,guilt,remorse caused by feeling responsible for some offense,778,FALSE,adverb,1,in the manner of someone who has committed an offense,,
+guiltiness,guilt,remorse caused by feeling responsible for some offense,779,FALSE,noun,1,the state of having committed an offense,,
+guiltinesses,guilt,remorse caused by feeling responsible for some offense,780,FALSE,noun,1,the state of having committed an offense,,
+guilts,guilt,remorse caused by feeling responsible for some offense,781,FALSE,noun,2,"the state of having committed an offense
+remorse caused by feeling responsible for some offense",,
+guilty,guilt,remorse caused by feeling responsible for some offense,782,FALSE,adjective,2,"responsible for or chargeable with a reprehensible act
+showing a sense of guilt; ; - Eric Linklater",,
+happily,happiness,state of well-being characterized by emotions ranging from contentment to intense joy,784,FALSE,adverb,2,"in a joyous manner
+in an unexpectedly lucky way",,
+happiness,happiness,state of well-being characterized by emotions ranging from contentment to intense joy,783,TRUE,noun,2,"state of well-being characterized by emotions ranging from contentment to intense joy
+emotions experienced when in a state of well-being",,
+happinesses,happiness,state of well-being characterized by emotions ranging from contentment to intense joy,786,FALSE,noun,2,"state of well-being characterized by emotions ranging from contentment to intense joy
+emotions experienced when in a state of well-being",,
+happy,happiness,state of well-being characterized by emotions ranging from contentment to intense joy,787,FALSE,adjective,4,"enjoying or showing or marked by joy or pleasure
+marked by good fortune
+eagerly disposed to act or to be of service
+well expressed and to the point",,
+hate,hate,the emotion of intense dislike; a feeling of dislike so strong that it demands action,788,TRUE,noun,2,"the emotion of intense dislike; a feeling of dislike so strong that it demands action
+dislike intensely; feel antipathy or aversion towards",,
+hated,hate,the emotion of intense dislike; a feeling of dislike so strong that it demands action,791,FALSE,verb,4,"dislike intensely; feel antipathy or aversion towards
+put on or wear a hat
+furnish with a hat
+treated with contempt",,
+hater,hate,the emotion of intense dislike; a feeling of dislike so strong that it demands action,792,FALSE,noun,1,a person who hates,,
+haters,hate,the emotion of intense dislike; a feeling of dislike so strong that it demands action,793,FALSE,noun,1,a person who hates,,
+hates,hate,the emotion of intense dislike; a feeling of dislike so strong that it demands action,794,FALSE,noun,4,"the emotion of intense dislike; a feeling of dislike so strong that it demands action
+dislike intensely; feel antipathy or aversion towards
+put on or wear a hat
+furnish with a hat",,
+hating,hate,the emotion of intense dislike; a feeling of dislike so strong that it demands action,796,FALSE,verb,3,"dislike intensely; feel antipathy or aversion towards
+put on or wear a hat
+furnish with a hat",,
+hope,hope,a specific instance of feeling hopeful,801,TRUE,noun,9,"a specific instance of feeling hopeful
+the general feeling that some desire will be fulfilled
+grounds for feeling hopeful about the future
+someone (or something) on which expectations are centered
+United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)
+one of the three Christian virtues
+expect and wish
+be optimistic; be full of hope; have hopes
+intend with some possibility of fulfilment",,
+hoped,hope,a specific instance of feeling hopeful,804,FALSE,verb,9,"expect and wish
+be optimistic; be full of hope; have hopes
+intend with some possibility of fulfilment
+jump lightly
+move quickly from one place to another
+travel by means of an aircraft, bus, etc.
+traverse as if by a short airplane trip
+jump across
+make a jump forward or upward",,
+hoper,hope,a specific instance of feeling hopeful,805,FALSE,noun,1,a person who hopes,,
+hopers,hope,a specific instance of feeling hopeful,806,FALSE,noun,1,a person who hopes,,
+hopes,hope,a specific instance of feeling hopeful,808,FALSE,verb,15,"a specific instance of feeling hopeful
+the general feeling that some desire will be fulfilled
+grounds for feeling hopeful about the future
+someone (or something) on which expectations are centered
+United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)
+one of the three Christian virtues
+expect and wish
+be optimistic; be full of hope; have hopes
+intend with some possibility of fulfilment
+jump lightly
+move quickly from one place to another
+travel by means of an aircraft, bus, etc.
+traverse as if by a short airplane trip
+jump across
+make a jump forward or upward",,
+hoping,hope,a specific instance of feeling hopeful,809,FALSE,verb,9,"expect and wish
+be optimistic; be full of hope; have hopes
+intend with some possibility of fulfilment
+jump lightly
+move quickly from one place to another
+travel by means of an aircraft, bus, etc.
+traverse as if by a short airplane trip
+jump across
+make a jump forward or upward",,
+hopeless,hopelessness,the despair you feel when you have abandoned hope of comfort or success,811,FALSE,adjective,4,"without hope because there seems to be no possibility of comfort or success
+of a person unable to do something skillfully
+certain to fail
+(informal to emphasize how bad it is) beyond hope of management or reform",,
+hopelessly,hopelessness,the despair you feel when you have abandoned hope of comfort or success,812,FALSE,adverb,3,"in a hopeless manner
+in a dispirited manner without hope
+without hope; desperate because there seems no possibility of comfort or success",,
+hopelessness,hopelessness,the despair you feel when you have abandoned hope of comfort or success,810,TRUE,noun,1,the despair you feel when you have abandoned hope of comfort or success,,
+hopelessnesses,hopelessness,the despair you feel when you have abandoned hope of comfort or success,814,FALSE,noun,1,the despair you feel when you have abandoned hope of comfort or success,,
+horrified,horror,intense and profound fear,816,FALSE,verb,2,"fill with apprehension or alarm; cause to be unpleasantly surprised
+stricken with horror",,
+horrifies,horror,intense and profound fear,817,FALSE,verb,1,fill with apprehension or alarm; cause to be unpleasantly surprised,,
+horrify,horror,intense and profound fear,818,FALSE,verb,1,fill with apprehension or alarm; cause to be unpleasantly surprised,,
+horrifying,horror,intense and profound fear,819,FALSE,verb,2,"fill with apprehension or alarm; cause to be unpleasantly surprised
+provoking horror; ; ; ; - Winston Churchill",,
+horror,horror,intense and profound fear,815,TRUE,noun,3,"intense and profound fear
+something that inspires dislike; something horrible
+intense aversion",,
+horrors,horror,intense and profound fear,821,FALSE,noun,3,"intense and profound fear
+something that inspires dislike; something horrible
+intense aversion",,
+hostile,hostility,the feeling of a hostile person,824,FALSE,adjective,6,"troops belonging to the enemy's military forces
+characterized by enmity or ill will
+not belonging to your own country's forces or those of an ally
+impossible to bring into friendly accord
+very unfavorable to life or growth
+unsolicited and resisted by the management of the target company ( used of attempts to buy or take control of a business)",,
+hostilely,hostility,the feeling of a hostile person,825,FALSE,adverb,1,with hostility; in a belligerent hostile manner,,
+hostiles,hostility,the feeling of a hostile person,826,FALSE,noun,1,troops belonging to the enemy's military forces,,
+hostilities,hostility,the feeling of a hostile person,827,FALSE,noun,5,"fighting; acts of overt warfare
+a hostile (very unfriendly) disposition
+a state of deep-seated ill-will
+the feeling of a hostile person
+violent action that is hostile and usually unprovoked",,
+hostilitiess,hostility,the feeling of a hostile person,828,FALSE,noun,1,fighting; acts of overt warfare,,
+hostility,hostility,the feeling of a hostile person,822,TRUE,noun,4,"a hostile (very unfriendly) disposition
+a state of deep-seated ill-will
+the feeling of a hostile person
+violent action that is hostile and usually unprovoked",,
+humiliate,humiliation,strong feelings of embarrassment,831,FALSE,verb,1,cause to feel shame; hurt the pride of,,
+humiliated,humiliation,strong feelings of embarrassment,832,FALSE,verb,3,"cause to feel shame; hurt the pride of
+subdued or brought low in condition or status
+made to feel uncomfortable because of shame or wounded pride",,
+humiliates,humiliation,strong feelings of embarrassment,833,FALSE,verb,1,cause to feel shame; hurt the pride of,,
+humiliating,humiliation,strong feelings of embarrassment,834,FALSE,verb,2,"cause to feel shame; hurt the pride of
+causing awareness of your shortcomings",,
+humiliation,humiliation,strong feelings of embarrassment,830,TRUE,noun,4,"state of disgrace or loss of self-respect
+strong feelings of embarrassment
+an instance in which you are caused to lose your prestige or self-respect
+depriving one of self-esteem",,
+humiliations,humiliation,strong feelings of embarrassment,836,FALSE,noun,4,"state of disgrace or loss of self-respect
+strong feelings of embarrassment
+an instance in which you are caused to lose your prestige or self-respect
+depriving one of self-esteem",,
+hurt,hurt,psychological suffering,837,TRUE,noun,14,"any physical damage to the body caused by violence or accident or fracture etc.
+psychological suffering
+feelings of mental or physical pain
+a damage or loss
+the act of damaging something or someone
+be the source of pain
+give trouble or pain to
+cause emotional anguish or make miserable
+cause damage or affect negatively
+hurt the feelings of
+feel physical pain
+feel pain or be in pain
+suffering from physical injury especially that suffered in battle
+damaged inanimate objects or their value",1,1
+hurting,hurt,psychological suffering,842,FALSE,verb,8,"a symptom of some physical hurt or disorder
+be the source of pain
+give trouble or pain to
+cause emotional anguish or make miserable
+cause damage or affect negatively
+hurt the feelings of
+feel physical pain
+feel pain or be in pain",1,1
+hurtings,hurt,psychological suffering,843,FALSE,noun,8,"a symptom of some physical hurt or disorder
+be the source of pain
+give trouble or pain to
+cause emotional anguish or make miserable
+cause damage or affect negatively
+hurt the feelings of
+feel physical pain
+feel pain or be in pain",1,1
+hurts,hurt,psychological suffering,844,FALSE,noun,12,"any physical damage to the body caused by violence or accident or fracture etc.
+psychological suffering
+feelings of mental or physical pain
+a damage or loss
+the act of damaging something or someone
+be the source of pain
+give trouble or pain to
+cause emotional anguish or make miserable
+cause damage or affect negatively
+hurt the feelings of
+feel physical pain
+feel pain or be in pain",1,1
+hysteria,hysteria,excessive or uncontrollable fear,846,TRUE,noun,3,"state of violent mental agitation
+excessive or uncontrollable fear
+neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions",,
+hysterias,hysteria,excessive or uncontrollable fear,848,FALSE,noun,3,"state of violent mental agitation
+excessive or uncontrollable fear
+neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions",,
+hysteric,hysteria,excessive or uncontrollable fear,849,FALSE,noun,2,"a person suffering from hysteria
+characterized by or arising from psychoneurotic hysteria; - Morris Fishbein",,
+hysterical,hysteria,excessive or uncontrollable fear,851,FALSE,adjective,2,"characterized by or arising from psychoneurotic hysteria; - Morris Fishbein
+marked by excessive or uncontrollable emotion",,
+hysterically,hysteria,excessive or uncontrollable fear,852,FALSE,adverb,1,in a hysterical manner,,
+hysterics,hysteria,excessive or uncontrollable fear,853,FALSE,noun,2,"an attack of hysteria
+a person suffering from hysteria",,
+impatience,impatience,a restless desire for change and excitement,854,TRUE,noun,3,"a lack of patience; irritation with anything that causes delay
+a restless desire for change and excitement
+a dislike of anything that causes delay",,
+impatiences,impatience,a restless desire for change and excitement,856,FALSE,noun,3,"a lack of patience; irritation with anything that causes delay
+a restless desire for change and excitement
+a dislike of anything that causes delay",,
+impatient,impatience,a restless desire for change and excitement,857,FALSE,adjective,2,"restless or short-tempered under delay or opposition
+(usually followed by `to') full of eagerness",,
+impatiently,impatience,a restless desire for change and excitement,858,FALSE,adverb,1,with impatience; in an impatient manner,,
+inclination,inclination,that toward which you are inclined to feel a liking,859,TRUE,noun,8,"an attitude of mind especially one that favors one alternative over others
+(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+(physics) the angle that a magnetic needle makes with the plane of the horizon
+that toward which you are inclined to feel a liking
+the property possessed by a line or surface that departs from the vertical
+a characteristic likelihood of or natural disposition toward a certain condition or character or effect
+the act of inclining; bending forward",1,1
+inclinations,inclination,that toward which you are inclined to feel a liking,861,FALSE,noun,8,"an attitude of mind especially one that favors one alternative over others
+(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+(physics) the angle that a magnetic needle makes with the plane of the horizon
+that toward which you are inclined to feel a liking
+the property possessed by a line or surface that departs from the vertical
+a characteristic likelihood of or natural disposition toward a certain condition or character or effect
+the act of inclining; bending forward",1,1
+incline,inclination,that toward which you are inclined to feel a liking,862,FALSE,noun,8,"an elevated geological formation
+an inclined surface connecting two levels
+have a tendency or disposition to do or be something; be inclined
+bend or turn (one's ear) towards a speaker in order to listen well
+lower or bend (the head or upper body), as in a nod or bow
+be at an angle
+feel favorably disposed or willing
+make receptive or willing towards an action or attitude or belief",1,1
+inclined,inclination,that toward which you are inclined to feel a liking,864,FALSE,verb,9,"have a tendency or disposition to do or be something; be inclined
+bend or turn (one's ear) towards a speaker in order to listen well
+lower or bend (the head or upper body), as in a nod or bow
+be at an angle
+feel favorably disposed or willing
+make receptive or willing towards an action or attitude or belief
+(often followed by `to') having a preference, disposition, or tendency
+at an angle to the horizontal or vertical position
+having made preparations",1,1
+inclines,inclination,that toward which you are inclined to feel a liking,866,FALSE,verb,8,"an elevated geological formation
+an inclined surface connecting two levels
+have a tendency or disposition to do or be something; be inclined
+bend or turn (one's ear) towards a speaker in order to listen well
+lower or bend (the head or upper body), as in a nod or bow
+be at an angle
+feel favorably disposed or willing
+make receptive or willing towards an action or attitude or belief",1,1
+inclining,inclination,that toward which you are inclined to feel a liking,868,FALSE,verb,7,"the act of inclining; bending forward
+have a tendency or disposition to do or be something; be inclined
+bend or turn (one's ear) towards a speaker in order to listen well
+lower or bend (the head or upper body), as in a nod or bow
+be at an angle
+feel favorably disposed or willing
+make receptive or willing towards an action or attitude or belief",1,1
+inclinings,inclination,that toward which you are inclined to feel a liking,869,FALSE,noun,7,"the act of inclining; bending forward
+have a tendency or disposition to do or be something; be inclined
+bend or turn (one's ear) towards a speaker in order to listen well
+lower or bend (the head or upper body), as in a nod or bow
+be at an angle
+feel favorably disposed or willing
+make receptive or willing towards an action or attitude or belief",1,1
+indignation,indignation,a feeling of righteous anger,873,TRUE,noun,1,a feeling of righteous anger,,
+indignations,indignation,a feeling of righteous anger,875,FALSE,noun,1,a feeling of righteous anger,,
+infatuate,infatuation,a foolish and usually extravagant passion or love or admiration,877,FALSE,verb,1,arouse unreasoning love or passion in and cause to behave in an irrational way,,
+infatuated,infatuation,a foolish and usually extravagant passion or love or admiration,878,FALSE,verb,2,"arouse unreasoning love or passion in and cause to behave in an irrational way
+marked by foolish or unreasoning fondness",,
+infatuates,infatuation,a foolish and usually extravagant passion or love or admiration,879,FALSE,verb,1,arouse unreasoning love or passion in and cause to behave in an irrational way,,
+infatuating,infatuation,a foolish and usually extravagant passion or love or admiration,880,FALSE,verb,1,arouse unreasoning love or passion in and cause to behave in an irrational way,,
+infatuation,infatuation,a foolish and usually extravagant passion or love or admiration,876,TRUE,noun,3,"a foolish and usually extravagant passion or love or admiration
+temporary love of an adolescent
+an object of extravagant short-lived passion",,
+infatuations,infatuation,a foolish and usually extravagant passion or love or admiration,882,FALSE,noun,3,"a foolish and usually extravagant passion or love or admiration
+temporary love of an adolescent
+an object of extravagant short-lived passion",,
+insecure,insecurity,the anxiety you experience when you feel vulnerable and insecure,884,FALSE,adjective,4,"not firm or firmly fixed; likely to fail or give way
+lacking in security or safety
+lacking self-confidence or assurance
+not safe from attack",1,1
+insecurely,insecurity,the anxiety you experience when you feel vulnerable and insecure,885,FALSE,adverb,2,"in a tentative and self-conscious manner
+in a manner involving risk",1,1
+insecureness,insecurity,the anxiety you experience when you feel vulnerable and insecure,886,FALSE,noun,1,the state of being exposed to risk or anxiety,,
+insecurenesses,insecurity,the anxiety you experience when you feel vulnerable and insecure,887,FALSE,noun,1,the state of being exposed to risk or anxiety,,
+insecurities,insecurity,the anxiety you experience when you feel vulnerable and insecure,888,FALSE,noun,2,"the state of being subject to danger or injury
+the anxiety you experience when you feel vulnerable and insecure",,
+insecurity,insecurity,the anxiety you experience when you feel vulnerable and insecure,883,TRUE,noun,2,"the state of being subject to danger or injury
+the anxiety you experience when you feel vulnerable and insecure",,
+ire,ire,a strong emotion; a feeling that is oriented toward some real or supposed grievance,909,TRUE,noun,2,"a strong emotion; a feeling that is oriented toward some real or supposed grievance
+belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)",,
+ires,ire,a strong emotion; a feeling that is oriented toward some real or supposed grievance,911,FALSE,noun,2,"a strong emotion; a feeling that is oriented toward some real or supposed grievance
+belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)",,
+irritant,irritation,a sudden outburst of anger,913,FALSE,noun,1,something that causes irritation and annoyance,,
+irritants,irritation,a sudden outburst of anger,914,FALSE,noun,1,something that causes irritation and annoyance,,
+irritate,irritation,a sudden outburst of anger,915,FALSE,verb,3,"cause annoyance in; disturb, especially by minor irritations
+excite to an abnormal condition, or chafe or inflame
+excite to some characteristic action or condition, such as motion, contraction, or nervous impulse, by the application of a stimulus",,
+irritated,irritation,a sudden outburst of anger,916,FALSE,verb,4,"cause annoyance in; disturb, especially by minor irritations
+excite to an abnormal condition, or chafe or inflame
+excite to some characteristic action or condition, such as motion, contraction, or nervous impulse, by the application of a stimulus
+aroused to impatience or anger",,
+irritates,irritation,a sudden outburst of anger,917,FALSE,verb,3,"cause annoyance in; disturb, especially by minor irritations
+excite to an abnormal condition, or chafe or inflame
+excite to some characteristic action or condition, such as motion, contraction, or nervous impulse, by the application of a stimulus",,
+irritating,irritation,a sudden outburst of anger,918,FALSE,verb,6,"cause annoyance in; disturb, especially by minor irritations
+excite to an abnormal condition, or chafe or inflame
+excite to some characteristic action or condition, such as motion, contraction, or nervous impulse, by the application of a stimulus
+causing irritation or annoyance
+(used of physical stimuli) serving to stimulate or excite
+causing physical discomfort",,
+irritation,irritation,a sudden outburst of anger,912,TRUE,noun,7,"the psychological state of being irritated or annoyed
+a sudden outburst of anger
+(pathology) abnormal sensitivity to stimulation
+the neural or electrical arousal of an organ or muscle or gland
+an uncomfortable feeling of mental painfulness or distress
+unfriendly behavior that causes anger or resentment
+the act of troubling or annoying someone",,
+irritations,irritation,a sudden outburst of anger,920,FALSE,noun,7,"the psychological state of being irritated or annoyed
+a sudden outburst of anger
+(pathology) abnormal sensitivity to stimulation
+the neural or electrical arousal of an organ or muscle or gland
+an uncomfortable feeling of mental painfulness or distress
+unfriendly behavior that causes anger or resentment
+the act of troubling or annoying someone",,
+irritative,irritation,a sudden outburst of anger,921,FALSE,adjective,1,(used of physical stimuli) serving to stimulate or excite,,
+isolable,isolation,a feeling of being disliked and alone,923,FALSE,adjective,1,capable of being isolated or disjoined,1,1
+isolate,isolation,a feeling of being disliked and alone,924,FALSE,verb,4,"place or set apart
+obtain in pure form
+set apart from others
+separate (experiences) from the emotions relating to them",1,1
+isolated,isolation,a feeling of being disliked and alone,925,FALSE,verb,10,"place or set apart
+obtain in pure form
+set apart from others
+separate (experiences) from the emotions relating to them
+not close together in time
+being or feeling set or kept apart from others; ; - Sherwood Anderson
+marked by separation of or from usually contiguous elements; - Scientific Monthly
+cut off or left behind
+under forced isolation especially for health reasons
+remote and separate physically or socially; ; - W.H.Hudson",1,1
+isolates,isolation,a feeling of being disliked and alone,926,FALSE,verb,4,"place or set apart
+obtain in pure form
+set apart from others
+separate (experiences) from the emotions relating to them",1,1
+isolating,isolation,a feeling of being disliked and alone,927,FALSE,verb,5,"place or set apart
+obtain in pure form
+set apart from others
+separate (experiences) from the emotions relating to them
+relating to or being a language in which each word typically expresses a distinct idea and part of speech and syntactical relations are determined almost exclusively by word order and particles",1,1
+isolation,isolation,a feeling of being disliked and alone,922,TRUE,noun,5,"a state of separation between persons or groups
+a feeling of being disliked and alone
+the act of isolating something; setting something apart from others
+(psychiatry) a defense mechanism in which memory of an unacceptable act or impulse is separated from the emotion originally associated with it
+a country's withdrawal from international politics",1,1
+isolations,isolation,a feeling of being disliked and alone,929,FALSE,noun,5,"a state of separation between persons or groups
+a feeling of being disliked and alone
+the act of isolating something; setting something apart from others
+(psychiatry) a defense mechanism in which memory of an unacceptable act or impulse is separated from the emotion originally associated with it
+a country's withdrawal from international politics",1,1
+jealousies,jealousy,a feeling of jealous envy (especially of a rival),931,FALSE,noun,2,"a feeling of jealous envy (especially of a rival)
+zealous vigilance; -Paul Blanshard",,
+jealousy,jealousy,a feeling of jealous envy (especially of a rival),930,TRUE,noun,2,"a feeling of jealous envy (especially of a rival)
+zealous vigilance; -Paul Blanshard",,
+joy,joy,the emotion of great happiness,957,TRUE,noun,4,"the emotion of great happiness
+something or someone that provides a source of happiness
+feel happiness or joy
+make glad or happy",,
+joyed,joy,the emotion of great happiness,960,FALSE,verb,2,"feel happiness or joy
+make glad or happy",,
+joying,joy,the emotion of great happiness,961,FALSE,verb,2,"feel happiness or joy
+make glad or happy",,
+joyous,joy,the emotion of great happiness,962,FALSE,adjective,1,full of or characterized by joy,,
+joyously,joy,the emotion of great happiness,963,FALSE,adverb,1,in a joyous and gleeful manner,,
+joyousness,joy,the emotion of great happiness,964,FALSE,noun,1,the emotion of great happiness,,
+joyousnesses,joy,the emotion of great happiness,965,FALSE,noun,1,the emotion of great happiness,,
+joys,joy,the emotion of great happiness,967,FALSE,verb,4,"the emotion of great happiness
+something or someone that provides a source of happiness
+feel happiness or joy
+make glad or happy",,
+likable,liking,a feeling of pleasure and enjoyment,984,FALSE,adjective,2,"(of characters in literature or drama) evoking empathic or sympathetic feelings
+easy to like; agreeable",,
+like,liking,a feeling of pleasure and enjoyment,987,FALSE,verb,11,"a similar kind; ,
+a kind of person
+prefer or wish to do something
+find enjoyable or agreeable
+be fond of
+feel about or towards; consider, evaluate, or regard
+want to have
+resembling or similar; having the same or some of the same characteristics; often used in combination
+equal in amount or value
+having the same or similar characteristics
+conforming in every respect",1,1
+likeable,liking,a feeling of pleasure and enjoyment,988,FALSE,adjective,2,"(of characters in literature or drama) evoking empathic or sympathetic feelings
+easy to like; agreeable",,
+liked,liking,a feeling of pleasure and enjoyment,989,FALSE,verb,6,"prefer or wish to do something
+find enjoyable or agreeable
+be fond of
+feel about or towards; consider, evaluate, or regard
+want to have
+found pleasant or attractive; often used as a combining form",,
+likeness,liking,a feeling of pleasure and enjoyment,990,FALSE,noun,3,"similarity in appearance or character or nature between persons or things
+picture consisting of a graphic image of a person or thing
+consider or describe as similar, equal, or analogous",1,1
+likenesses,liking,a feeling of pleasure and enjoyment,991,FALSE,noun,3,"similarity in appearance or character or nature between persons or things
+picture consisting of a graphic image of a person or thing
+consider or describe as similar, equal, or analogous",1,1
+likes,liking,a feeling of pleasure and enjoyment,992,FALSE,noun,7,"a similar kind; ,
+a kind of person
+prefer or wish to do something
+find enjoyable or agreeable
+be fond of
+feel about or towards; consider, evaluate, or regard
+want to have",1,1
+liking,liking,a feeling of pleasure and enjoyment,983,TRUE,noun,6,"a feeling of pleasure and enjoyment
+prefer or wish to do something
+find enjoyable or agreeable
+be fond of
+feel about or towards; consider, evaluate, or regard
+want to have",,
+likings,liking,a feeling of pleasure and enjoyment,996,FALSE,noun,6,"a feeling of pleasure and enjoyment
+prefer or wish to do something
+find enjoyable or agreeable
+be fond of
+feel about or towards; consider, evaluate, or regard
+want to have",,
+loathe,loathing,hate coupled with disgust,998,FALSE,verb,1,find repugnant,,
+loathed,loathing,hate coupled with disgust,999,FALSE,verb,1,find repugnant,,
+loather,loathing,hate coupled with disgust,1000,FALSE,noun,1,one who hates or loathes,,
+loathers,loathing,hate coupled with disgust,1001,FALSE,noun,1,one who hates or loathes,,
+loathes,loathing,hate coupled with disgust,1002,FALSE,verb,1,find repugnant,,
+loathing,loathing,hate coupled with disgust,997,TRUE,noun,2,"hate coupled with disgust
+find repugnant",,
+loathings,loathing,hate coupled with disgust,1005,FALSE,noun,2,"hate coupled with disgust
+find repugnant",,
+loneliness,loneliness,sadness resulting from being forsaken or abandoned,1006,TRUE,noun,3,"the state of being alone in solitary isolation
+sadness resulting from being forsaken or abandoned
+a disposition toward being alone",,
+lonelinesses,loneliness,sadness resulting from being forsaken or abandoned,1008,FALSE,noun,3,"the state of being alone in solitary isolation
+sadness resulting from being forsaken or abandoned
+a disposition toward being alone",,
+lonely,loneliness,sadness resulting from being forsaken or abandoned,1009,FALSE,adjective,4,"lacking companions or companionship
+marked by dejection from being alone
+characterized by or preferring solitude
+devoid of creatures",,
+long,longing,prolonged unfulfilled desire or need,1013,FALSE,adverb,12,"desire strongly or persistently
+primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified
+primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified
+of relatively great height; - Sherwood Anderson
+good at remembering
+holding securities or commodities in expectation of a rise in prices
+(of speech sounds or syllables) of relatively long duration
+involving substantial risk
+planning prudently for the future
+having or being more than normal or necessary:
+for an extended time or at a distant time
+for an extended distance",1,1
+longed,longing,prolonged unfulfilled desire or need,1014,FALSE,verb,1,desire strongly or persistently,,
+longer,longing,prolonged unfulfilled desire or need,1015,FALSE,noun,11,"a person with a strong desire for something
+primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified
+primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified
+of relatively great height; - Sherwood Anderson
+good at remembering
+holding securities or commodities in expectation of a rise in prices
+(of speech sounds or syllables) of relatively long duration
+involving substantial risk
+planning prudently for the future
+having or being more than normal or necessary:
+for more time",1,1
+longers,longing,prolonged unfulfilled desire or need,1017,FALSE,noun,1,a person with a strong desire for something,,
+longest,longing,prolonged unfulfilled desire or need,1018,FALSE,adverb,10,"primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified
+primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified
+of relatively great height; - Sherwood Anderson
+good at remembering
+holding securities or commodities in expectation of a rise in prices
+(of speech sounds or syllables) of relatively long duration
+involving substantial risk
+planning prudently for the future
+having or being more than normal or necessary:
+for the most time",1,1
+longing,longing,prolonged unfulfilled desire or need,1010,TRUE,noun,2,"prolonged unfulfilled desire or need
+desire strongly or persistently",,
+longings,longing,prolonged unfulfilled desire or need,1021,FALSE,noun,2,"prolonged unfulfilled desire or need
+desire strongly or persistently",,
+longness,longing,prolonged unfulfilled desire or need,1022,FALSE,noun,2,"the property of being of long spatial extent
+duration as an extension",1,1
+longnesses,longing,prolonged unfulfilled desire or need,1023,FALSE,noun,2,"the property of being of long spatial extent
+duration as an extension",1,1
+longs,longing,prolonged unfulfilled desire or need,1024,FALSE,verb,1,desire strongly or persistently,,
+lovable,love,a strong positive emotion of regard and affection,1026,FALSE,adjective,1,having characteristics that attract love or affection,,
+love,love,a strong positive emotion of regard and affection,1025,TRUE,noun,10,"a strong positive emotion of regard and affection
+any object of warm affection or devotion
+a beloved person; used as terms of endearment
+a deep feeling of sexual desire and attraction
+a score of zero in tennis or squash
+sexual activities (often including sexual intercourse) between two people
+have a great affection or liking for
+get pleasure from
+be enamored or in love with
+have sexual intercourse with",,
+loveable,love,a strong positive emotion of regard and affection,1029,FALSE,adjective,1,having characteristics that attract love or affection,,
+loved,love,a strong positive emotion of regard and affection,1030,FALSE,verb,5,"have a great affection or liking for
+get pleasure from
+be enamored or in love with
+have sexual intercourse with
+held dear",,
+lover,love,a strong positive emotion of regard and affection,1031,FALSE,noun,3,"a person who loves someone or is loved by someone
+an ardent follower and admirer
+a significant other to whom you are not related by marriage",,
+lovers,love,a strong positive emotion of regard and affection,1032,FALSE,noun,3,"a person who loves someone or is loved by someone
+an ardent follower and admirer
+a significant other to whom you are not related by marriage",,
+loves,love,a strong positive emotion of regard and affection,1033,FALSE,noun,10,"a strong positive emotion of regard and affection
+any object of warm affection or devotion
+a beloved person; used as terms of endearment
+a deep feeling of sexual desire and attraction
+a score of zero in tennis or squash
+sexual activities (often including sexual intercourse) between two people
+have a great affection or liking for
+get pleasure from
+be enamored or in love with
+have sexual intercourse with",,
+loving,love,a strong positive emotion of regard and affection,1035,FALSE,verb,5,"have a great affection or liking for
+get pleasure from
+be enamored or in love with
+have sexual intercourse with
+feeling or showing love and affection",,
+lust,lust,a strong sexual desire,1036,TRUE,noun,3,"a strong sexual desire
+self-indulgent sexual desire (personified as one of the deadly sins)
+have a craving, appetite, or great desire for",1,0
+lusted,lust,a strong sexual desire,1039,FALSE,verb,1,"have a craving, appetite, or great desire for",,
+lustily,lust,a strong sexual desire,1040,FALSE,adverb,1,in a healthy manner,1,1
+lustiness,lust,a strong sexual desire,1041,FALSE,noun,1,the property of being strong and healthy in constitution,1,1
+lustinesses,lust,a strong sexual desire,1042,FALSE,noun,1,the property of being strong and healthy in constitution,1,1
+lusting,lust,a strong sexual desire,1043,FALSE,verb,1,"have a craving, appetite, or great desire for",,
+lusts,lust,a strong sexual desire,1045,FALSE,verb,3,"a strong sexual desire
+self-indulgent sexual desire (personified as one of the deadly sins)
+have a craving, appetite, or great desire for",1,0
+lusty,lust,a strong sexual desire,1046,FALSE,adjective,2,"vigorously passionate
+endowed with or exhibiting great bodily or mental health",1,0
+melancholies,melancholy,a feeling of thoughtful sadness,1055,FALSE,noun,3,"a feeling of thoughtful sadness
+a constitutional tendency to be gloomy and depressed
+a humor that was once believed to be secreted by the kidneys or spleen and to cause sadness and melancholy",,
+melancholy,melancholy,a feeling of thoughtful sadness,1054,TRUE,noun,5,"a feeling of thoughtful sadness
+a constitutional tendency to be gloomy and depressed
+a humor that was once believed to be secreted by the kidneys or spleen and to cause sadness and melancholy
+characterized by or causing or expressing sadness
+grave or even gloomy in character",,
+mirth,mirth,great merriment,1070,TRUE,noun,1,great merriment,,
+mirths,mirth,great merriment,1072,FALSE,noun,1,great merriment,,
+miseries,misery,a feeling of intense unhappiness,1074,FALSE,noun,2,"a state of ill-being due to affliction or misfortune
+a feeling of intense unhappiness",,
+misery,misery,a feeling of intense unhappiness,1073,TRUE,noun,2,"a state of ill-being due to affliction or misfortune
+a feeling of intense unhappiness",,
+mortification,mortification,strong feelings of embarrassment,1084,TRUE,noun,4,"strong feelings of embarrassment
+the localized death of living cells (as from infection or the interruption of blood supply)
+an instance in which you are caused to lose your prestige or self-respect
+(Christianity) the act of mortifying the lusts of the flesh by self-denial and privation (especially by bodily pain or discomfort inflicted on yourself)",,
+mortifications,mortification,strong feelings of embarrassment,1086,FALSE,noun,4,"strong feelings of embarrassment
+the localized death of living cells (as from infection or the interruption of blood supply)
+an instance in which you are caused to lose your prestige or self-respect
+(Christianity) the act of mortifying the lusts of the flesh by self-denial and privation (especially by bodily pain or discomfort inflicted on yourself)",,
+mortified,mortification,strong feelings of embarrassment,1087,FALSE,verb,6,"practice self-denial of one's body and appetites
+hold within limits and control
+cause to feel shame; hurt the pride of
+undergo necrosis
+suffering from tissue death
+made to feel uncomfortable because of shame or wounded pride",,
+mortifies,mortification,strong feelings of embarrassment,1088,FALSE,verb,4,"practice self-denial of one's body and appetites
+hold within limits and control
+cause to feel shame; hurt the pride of
+undergo necrosis",,
+mortify,mortification,strong feelings of embarrassment,1089,FALSE,verb,4,"practice self-denial of one's body and appetites
+hold within limits and control
+cause to feel shame; hurt the pride of
+undergo necrosis",,
+mortifying,mortification,strong feelings of embarrassment,1090,FALSE,verb,6,"practice self-denial of one's body and appetites
+hold within limits and control
+cause to feel shame; hurt the pride of
+undergo necrosis
+causing to feel shame or chagrin or vexation
+causing awareness of your shortcomings",,
+nerve,nervousness,the anxious feeling you have when you have the jitters,1106,FALSE,verb,4,"any bundle of nerve fibers running to various organs and tissues of the body
+the courage to carry on
+impudent aggressiveness
+get ready for something difficult or unpleasant",1,1
+nerved,nervousness,the anxious feeling you have when you have the jitters,1107,FALSE,verb,1,get ready for something difficult or unpleasant,,
+nerves,nervousness,the anxious feeling you have when you have the jitters,1109,FALSE,verb,6,"an uneasy psychological state
+control of your emotions
+any bundle of nerve fibers running to various organs and tissues of the body
+the courage to carry on
+impudent aggressiveness
+get ready for something difficult or unpleasant",,
+nervily,nervousness,the anxious feeling you have when you have the jitters,1110,FALSE,adverb,1,in a brash cheeky manner,,
+nerving,nervousness,the anxious feeling you have when you have the jitters,1111,FALSE,verb,1,get ready for something difficult or unpleasant,,
+nervous,nervousness,the anxious feeling you have when you have the jitters,1112,FALSE,adjective,5,"easily agitated
+causing or fraught with or showing anxiety
+of or relating to the nervous system
+excited in anticipation
+unpredictably excitable (especially of horses)",,
+nervous_system,nervousness,the anxious feeling you have when you have the jitters,1113,FALSE,noun,1,the sensory and control apparatus consisting of a network of nerve cells,1,1
+nervous_systems,nervousness,the anxious feeling you have when you have the jitters,1114,FALSE,noun,1,the sensory and control apparatus consisting of a network of nerve cells,1,1
+nervously,nervousness,the anxious feeling you have when you have the jitters,1115,FALSE,adverb,2,"in an anxiously nervous manner
+with nervous excitement",,
+nervousness,nervousness,the anxious feeling you have when you have the jitters,1104,TRUE,noun,3,"the anxious feeling you have when you have the jitters
+an uneasy psychological state
+a sensitive or highly strung temperament",,
+nervousnesses,nervousness,the anxious feeling you have when you have the jitters,1117,FALSE,noun,3,"the anxious feeling you have when you have the jitters
+an uneasy psychological state
+a sensitive or highly strung temperament",,
+nervy,nervousness,the anxious feeling you have when you have the jitters,1118,FALSE,adjective,3,"being in a tense state
+showing or requiring courage and contempt of danger
+offensively bold",,
+nostalgia,nostalgia,longing for something past,1119,TRUE,noun,1,longing for something past,,
+nostalgias,nostalgia,longing for something past,1121,FALSE,noun,1,longing for something past,,
+nostalgic,nostalgia,longing for something past,1122,FALSE,adjective,1,unhappy about being away and longing for familiar things or persons,,
+optimism,optimism,the optimistic feeling that all is going to turn out well,1140,TRUE,noun,2,"the optimistic feeling that all is going to turn out well
+a general disposition to expect the best in all things",,
+optimisms,optimism,the optimistic feeling that all is going to turn out well,1142,FALSE,noun,2,"the optimistic feeling that all is going to turn out well
+a general disposition to expect the best in all things",,
+optimist,optimism,the optimistic feeling that all is going to turn out well,1143,FALSE,noun,1,a person disposed to take a favorable view of things,,
+optimistic,optimism,the optimistic feeling that all is going to turn out well,1144,FALSE,adjective,2,"expecting the best in this best of all possible worlds
+expecting the best",,
+optimistically,optimism,the optimistic feeling that all is going to turn out well,1145,FALSE,adverb,1,with optimism; in an optimistic manner,,
+optimists,optimism,the optimistic feeling that all is going to turn out well,1146,FALSE,noun,1,a person disposed to take a favorable view of things,,
+outrage,outrage,a feeling of righteous anger,1147,TRUE,noun,7,"a feeling of righteous anger
+a wantonly cruel act
+a disgraceful event
+the act of scandalizing
+strike with disgust or revulsion
+violate the sacred character of a place or language
+force (someone) to have sex against their will",,
+outraged,outrage,a feeling of righteous anger,1150,FALSE,verb,4,"strike with disgust or revulsion
+violate the sacred character of a place or language
+force (someone) to have sex against their will
+angered at something unjust or wrong",,
+outrageous,outrage,a feeling of righteous anger,1151,FALSE,adjective,2,"grossly offensive to decency or morality; causing horror
+greatly exceeding bounds of reason or moderation",,
+outrageously,outrage,a feeling of righteous anger,1152,FALSE,adverb,2,"in a very offensive manner
+to an extravagant or immoderate degree",,
+outrageousness,outrage,a feeling of righteous anger,1153,FALSE,noun,2,"excessive excess
+the quality of being outrageous",,
+outrageousnesses,outrage,a feeling of righteous anger,1154,FALSE,noun,2,"excessive excess
+the quality of being outrageous",,
+outrages,outrage,a feeling of righteous anger,1155,FALSE,noun,7,"a feeling of righteous anger
+a wantonly cruel act
+a disgraceful event
+the act of scandalizing
+strike with disgust or revulsion
+violate the sacred character of a place or language
+force (someone) to have sex against their will",,
+outraging,outrage,a feeling of righteous anger,1157,FALSE,verb,3,"strike with disgust or revulsion
+violate the sacred character of a place or language
+force (someone) to have sex against their will",,
+panic,panic,an overwhelming feeling of fear and anxiety,1158,TRUE,noun,4,"an overwhelming feeling of fear and anxiety
+sudden mass fear and anxiety over anticipated events
+be overcome by a sudden fear
+cause sudden fear in or fill with sudden panic",,
+panicked,panic,an overwhelming feeling of fear and anxiety,1161,FALSE,verb,3,"be overcome by a sudden fear
+cause sudden fear in or fill with sudden panic
+thrown into a state of intense fear or desperation",,
+panicking,panic,an overwhelming feeling of fear and anxiety,1162,FALSE,verb,2,"be overcome by a sudden fear
+cause sudden fear in or fill with sudden panic",,
+panicky,panic,an overwhelming feeling of fear and anxiety,1163,FALSE,adjective,1,thrown into a state of intense fear or desperation,,
+panics,panic,an overwhelming feeling of fear and anxiety,1165,FALSE,verb,4,"an overwhelming feeling of fear and anxiety
+sudden mass fear and anxiety over anticipated events
+be overcome by a sudden fear
+cause sudden fear in or fill with sudden panic",,
+passion,passion,a strong feeling or emotion,1166,TRUE,noun,7,"a strong feeling or emotion
+the trait of being intensely emotional
+something that is desired intensely
+an irrational but irresistible motive for a belief or action
+a feeling of strong sexual desire
+any object of warm affection or devotion
+the suffering of Jesus at the Crucifixion",,
+passions,passion,a strong feeling or emotion,1168,FALSE,noun,7,"a strong feeling or emotion
+the trait of being intensely emotional
+something that is desired intensely
+an irrational but irresistible motive for a belief or action
+a feeling of strong sexual desire
+any object of warm affection or devotion
+the suffering of Jesus at the Crucifixion",,
+piteous,pity,a feeling of sympathy and sorrow for the misfortunes of others,1179,FALSE,adjective,1,deserving or inciting pity; ; ; - Galsworthy,,
+piteously,pity,a feeling of sympathy and sorrow for the misfortunes of others,1180,FALSE,adverb,1,in a piteous manner,,
+pitied,pity,a feeling of sympathy and sorrow for the misfortunes of others,1181,FALSE,verb,1,share the suffering of,,
+pities,pity,a feeling of sympathy and sorrow for the misfortunes of others,1183,FALSE,verb,4,"a feeling of sympathy and sorrow for the misfortunes of others
+an unfortunate development
+the humane quality of understanding the suffering of others and wanting to do something about it
+share the suffering of",,
+pity,pity,a feeling of sympathy and sorrow for the misfortunes of others,1178,TRUE,noun,4,"a feeling of sympathy and sorrow for the misfortunes of others
+an unfortunate development
+the humane quality of understanding the suffering of others and wanting to do something about it
+share the suffering of",,
+pitying,pity,a feeling of sympathy and sorrow for the misfortunes of others,1186,FALSE,verb,1,share the suffering of,,
+pleasance,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1188,FALSE,noun,2,"a pleasant and secluded part of a garden; usually attached to a mansion
+a fundamental feeling that is hard to define but that people desire to experience",,
+pleasances,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1189,FALSE,noun,2,"a pleasant and secluded part of a garden; usually attached to a mansion
+a fundamental feeling that is hard to define but that people desire to experience",,
+pleasant,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1190,FALSE,adjective,2,"affording pleasure; being in harmony with your taste or likings
+(of persons) having pleasing manners or behavior",,
+pleasantly,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1191,FALSE,adverb,2,"in a cheerful manner
+in an enjoyable manner",,
+pleasantness,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1192,FALSE,noun,2,"the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling
+the quality of giving pleasure",,
+pleasantnesses,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1193,FALSE,noun,2,"the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling
+the quality of giving pleasure",,
+please,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1194,FALSE,verb,4,"give pleasure to or be pleasing to
+be the will of or have the will (to)
+give satisfaction
+used in polite request",1,1
+pleased,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1196,FALSE,verb,5,"give pleasure to or be pleasing to
+be the will of or have the will (to)
+give satisfaction
+experiencing or manifesting pleasure
+feeling pleasurable satisfaction over something by which you measures your self-worth",,
+pleaser,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1197,FALSE,noun,1,a pleasing entertainer,,
+pleasers,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1198,FALSE,noun,1,a pleasing entertainer,,
+pleases,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1199,FALSE,verb,6,"a humble request for help from someone in authority
+(law) a defendant's answer by a factual matter (as distinguished from a demurrer)
+an answer indicating why a suit should be dismissed
+give pleasure to or be pleasing to
+be the will of or have the will (to)
+give satisfaction",,
+pleasing,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1202,FALSE,verb,5,"the act of one who pleases
+give pleasure to or be pleasing to
+be the will of or have the will (to)
+give satisfaction
+giving pleasure and satisfaction",,
+pleasingly,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1203,FALSE,adverb,1,in a pleasing manner,,
+pleasings,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1204,FALSE,noun,4,"the act of one who pleases
+give pleasure to or be pleasing to
+be the will of or have the will (to)
+give satisfaction",,
+pleasure,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1187,TRUE,noun,5,"a fundamental feeling that is hard to define but that people desire to experience
+something or someone that provides a source of happiness
+a formal expression
+an activity that affords enjoyment
+sexual gratification",,
+pleasures,pleasure,a fundamental feeling that is hard to define but that people desire to experience,1206,FALSE,noun,5,"a fundamental feeling that is hard to define but that people desire to experience
+something or someone that provides a source of happiness
+a formal expression
+an activity that affords enjoyment
+sexual gratification",,
+pride,pride,a feeling of self-respect and personal worth,1225,TRUE,noun,6,"a feeling of self-respect and personal worth
+satisfaction with your (or another's) achievements
+the trait of being spurred on by a dislike of falling below your standards
+a group of lions
+unreasonable and inordinate self-esteem (personified as one of the deadly sins)
+be proud of",,
+prided,pride,a feeling of self-respect and personal worth,1228,FALSE,verb,1,be proud of,,
+prides,pride,a feeling of self-respect and personal worth,1230,FALSE,verb,6,"a feeling of self-respect and personal worth
+satisfaction with your (or another's) achievements
+the trait of being spurred on by a dislike of falling below your standards
+a group of lions
+unreasonable and inordinate self-esteem (personified as one of the deadly sins)
+be proud of",,
+priding,pride,a feeling of self-respect and personal worth,1231,FALSE,verb,1,be proud of,,
+rage,rage,a feeling of intense anger,1232,TRUE,noun,8,"a feeling of intense anger
+a state of extreme anger
+something that is desired intensely
+violent state of the elements
+an interest followed with exaggerated zeal
+behave violently, as if in state of a great anger
+be violent; as of fires and storms
+feel intense anger",,
+raged,rage,a feeling of intense anger,1235,FALSE,verb,9,"behave violently, as if in state of a great anger
+be violent; as of fires and storms
+feel intense anger
+treat cruelly
+cause annoyance in; disturb, especially by minor irritations
+play in ragtime
+harass with persistent criticism or carping
+censure severely or angrily
+break into lumps before sorting",,
+rages,rage,a feeling of intense anger,1237,FALSE,verb,14,"a feeling of intense anger
+a state of extreme anger
+something that is desired intensely
+violent state of the elements
+an interest followed with exaggerated zeal
+behave violently, as if in state of a great anger
+be violent; as of fires and storms
+feel intense anger
+treat cruelly
+cause annoyance in; disturb, especially by minor irritations
+play in ragtime
+harass with persistent criticism or carping
+censure severely or angrily
+break into lumps before sorting",,
+raging,rage,a feeling of intense anger,1238,FALSE,verb,12,"behave violently, as if in state of a great anger
+be violent; as of fires and storms
+feel intense anger
+treat cruelly
+cause annoyance in; disturb, especially by minor irritations
+play in ragtime
+harass with persistent criticism or carping
+censure severely or angrily
+break into lumps before sorting
+characterized by violent and forceful activity or movement; very intense
+very severe
+(of the elements) as if showing violent anger",,
+rapture,rapture,a state of being carried away by overwhelming emotion; - Charles Dickens,1239,TRUE,noun,2,"a state of being carried away by overwhelming emotion; - Charles Dickens
+a state of elated bliss",,
+raptures,rapture,a state of being carried away by overwhelming emotion; - Charles Dickens,1241,FALSE,noun,2,"a state of being carried away by overwhelming emotion; - Charles Dickens
+a state of elated bliss",,
+rapturous,rapture,a state of being carried away by overwhelming emotion; - Charles Dickens,1242,FALSE,adjective,1,feeling great rapture or delight,,
+rapturously,rapture,a state of being carried away by overwhelming emotion; - Charles Dickens,1243,FALSE,adverb,1,in an ecstatic manner,,
+regret,regret,sadness associated with some wrong done or some disappointment,1244,TRUE,noun,5,"sadness associated with some wrong done or some disappointment
+feel remorse for; feel sorry for; be contrite about
+feel sad about the loss or absence of
+decline formally or politely
+express with regret",,
+regrets,regret,sadness associated with some wrong done or some disappointment,1247,FALSE,noun,6,"a polite refusal of an invitation
+sadness associated with some wrong done or some disappointment
+feel remorse for; feel sorry for; be contrite about
+feel sad about the loss or absence of
+decline formally or politely
+express with regret",,
+regretted,regret,sadness associated with some wrong done or some disappointment,1249,FALSE,verb,4,"feel remorse for; feel sorry for; be contrite about
+feel sad about the loss or absence of
+decline formally or politely
+express with regret",,
+regretting,regret,sadness associated with some wrong done or some disappointment,1250,FALSE,verb,4,"feel remorse for; feel sorry for; be contrite about
+feel sad about the loss or absence of
+decline formally or politely
+express with regret",,
+relief,relief,the feeling that comes when something burdensome is removed or reduced,1261,TRUE,noun,11,"the feeling that comes when something burdensome is removed or reduced
+the condition of being comfortable or relieved (especially after being relieved of distress)
+(law) redress awarded by a court
+someone who takes the place of another (as when things get dangerous or difficult)
+assistance in time of difficulty
+a pause for relaxation
+a change for the better
+aid for the aged or indigent or handicapped
+the act of reducing something unpleasant (as pain or annoyance)
+sculpture consisting of shapes carved on a surface so as to stand out from the surrounding background
+the act of freeing a city or town that has been besieged",,
+reliefs,relief,the feeling that comes when something burdensome is removed or reduced,1263,FALSE,noun,11,"the feeling that comes when something burdensome is removed or reduced
+the condition of being comfortable or relieved (especially after being relieved of distress)
+(law) redress awarded by a court
+someone who takes the place of another (as when things get dangerous or difficult)
+assistance in time of difficulty
+a pause for relaxation
+a change for the better
+aid for the aged or indigent or handicapped
+the act of reducing something unpleasant (as pain or annoyance)
+sculpture consisting of shapes carved on a surface so as to stand out from the surrounding background
+the act of freeing a city or town that has been besieged",,
+remorse,remorse,a feeling of deep regret (usually for some misdeed),1264,TRUE,noun,1,a feeling of deep regret (usually for some misdeed),,
+remorses,remorse,a feeling of deep regret (usually for some misdeed),1266,FALSE,noun,1,a feeling of deep regret (usually for some misdeed),,
+resent,resentment,a feeling of deep and bitter anger and ill-will,1268,FALSE,verb,2,"feel bitter or indignant about
+wish ill or allow unwillingly",,
+resented,resentment,a feeling of deep and bitter anger and ill-will,1269,FALSE,verb,2,"feel bitter or indignant about
+wish ill or allow unwillingly",,
+resenting,resentment,a feeling of deep and bitter anger and ill-will,1270,FALSE,verb,2,"feel bitter or indignant about
+wish ill or allow unwillingly",,
+resentment,resentment,a feeling of deep and bitter anger and ill-will,1267,TRUE,noun,1,a feeling of deep and bitter anger and ill-will,,
+resentments,resentment,a feeling of deep and bitter anger and ill-will,1272,FALSE,noun,1,a feeling of deep and bitter anger and ill-will,,
+resents,resentment,a feeling of deep and bitter anger and ill-will,1273,FALSE,verb,2,"feel bitter or indignant about
+wish ill or allow unwillingly",,
+respect,respect,a feeling of friendship and esteem,1274,TRUE,noun,9,"(usually preceded by `in') a detail or point
+the condition of being honored (esteemed or respected or well regarded)
+an attitude of admiration or esteem
+a courteous expression (by word or deed) of esteem or regard
+behavior intended to please your parents
+a feeling of friendship and esteem
+courteous regard for people's feelings
+regard highly; think much of
+show respect towards",,
+respected,respect,a feeling of friendship and esteem,1277,FALSE,verb,3,"regard highly; think much of
+show respect towards
+receiving deferential regard",,
+respecter,respect,a feeling of friendship and esteem,1278,FALSE,noun,1,a person who respects someone or something; usually used in the negative,,
+respecters,respect,a feeling of friendship and esteem,1279,FALSE,noun,1,a person who respects someone or something; usually used in the negative,,
+respecting,respect,a feeling of friendship and esteem,1280,FALSE,verb,2,"regard highly; think much of
+show respect towards",,
+respects,respect,a feeling of friendship and esteem,1282,FALSE,verb,10,"(often used with `pay') a formal expression of esteem
+(usually preceded by `in') a detail or point
+the condition of being honored (esteemed or respected or well regarded)
+an attitude of admiration or esteem
+a courteous expression (by word or deed) of esteem or regard
+behavior intended to please your parents
+a feeling of friendship and esteem
+courteous regard for people's feelings
+regard highly; think much of
+show respect towards",,
+revulsion,revulsion,intense aversion,1283,TRUE,noun,1,intense aversion,,
+revulsions,revulsion,intense aversion,1285,FALSE,noun,1,intense aversion,,
+sad,sadness,emotions experienced when not in a state of well-being,1287,FALSE,adjective,3,"experiencing or showing sorrow or unhappiness; ; - Christina Rossetti
+of things that make you feel sad; ; ; ; - Christina Rossetti
+bad; unfortunate",,
+sadly,sadness,emotions experienced when not in a state of well-being,1288,FALSE,adverb,3,"in an unfortunate way
+with sadness; in a sad manner
+in an unfortunate or deplorable manner",,
+sadness,sadness,emotions experienced when not in a state of well-being,1286,TRUE,noun,3,"emotions experienced when not in a state of well-being
+the state of being sad
+the quality of excessive mournfulness and uncheerfulness",,
+sadnesses,sadness,emotions experienced when not in a state of well-being,1290,FALSE,noun,3,"emotions experienced when not in a state of well-being
+the state of being sad
+the quality of excessive mournfulness and uncheerfulness",,
+satisfaction,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1291,TRUE,noun,5,"the contentment one feels when one has fulfilled a desire, need, or expectation
+state of being gratified or satisfied
+compensation for a wrong
+(law) the payment of a debt or fulfillment of an obligation
+act of fulfilling a desire or need or appetite",,
+satisfactions,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1293,FALSE,noun,5,"the contentment one feels when one has fulfilled a desire, need, or expectation
+state of being gratified or satisfied
+compensation for a wrong
+(law) the payment of a debt or fulfillment of an obligation
+act of fulfilling a desire or need or appetite",,
+satisfactorily,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1294,FALSE,adverb,1,in a satisfactory manner,,
+satisfactoriness,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1295,FALSE,noun,1,the quality of giving satisfaction sufficient to meet a demand or requirement,,
+satisfactorinesses,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1296,FALSE,noun,1,the quality of giving satisfaction sufficient to meet a demand or requirement,,
+satisfactory,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1297,FALSE,adjective,2,"giving satisfaction
+meeting requirements",,
+satisfied,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1298,FALSE,verb,5,"meet the requirements or expectations of
+make happy or satisfied
+fill or meet a want or need
+filled with satisfaction
+allayed",,
+satisfier,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1299,FALSE,noun,1,any agent capable of producing satisfaction,,
+satisfiers,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1300,FALSE,noun,1,any agent capable of producing satisfaction,,
+satisfies,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1301,FALSE,verb,3,"meet the requirements or expectations of
+make happy or satisfied
+fill or meet a want or need",,
+satisfy,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1302,FALSE,verb,3,"meet the requirements or expectations of
+make happy or satisfied
+fill or meet a want or need",,
+satisfying,satisfaction,"the contentment one feels when one has fulfilled a desire, need, or expectation",1303,FALSE,verb,5,"meet the requirements or expectations of
+make happy or satisfied
+fill or meet a want or need
+providing abundant nourishment
+providing freedom from worry",,
+scorn,scorn,lack of respect accompanied by a feeling of intense dislike,1304,TRUE,noun,4,"lack of respect accompanied by a feeling of intense dislike
+open disrespect for a person or thing
+look down on with disdain
+reject with contempt",,
+scorned,scorn,lack of respect accompanied by a feeling of intense dislike,1307,FALSE,verb,3,"look down on with disdain
+reject with contempt
+treated with contempt",,
+scorner,scorn,lack of respect accompanied by a feeling of intense dislike,1308,FALSE,noun,1,a person who expresses contempt by remarks or facial expression,,
+scorners,scorn,lack of respect accompanied by a feeling of intense dislike,1309,FALSE,noun,1,a person who expresses contempt by remarks or facial expression,,
+scorning,scorn,lack of respect accompanied by a feeling of intense dislike,1310,FALSE,verb,2,"look down on with disdain
+reject with contempt",,
+scorns,scorn,lack of respect accompanied by a feeling of intense dislike,1312,FALSE,verb,4,"lack of respect accompanied by a feeling of intense dislike
+open disrespect for a person or thing
+look down on with disdain
+reject with contempt",,
+sentiment,sentimentality,extravagant or affected feeling or emotion,1314,FALSE,noun,2,"tender, romantic, or nostalgic feeling or emotion
+a personal belief or judgment that is not founded on proof or certainty",,
+sentimental,sentimentality,extravagant or affected feeling or emotion,1315,FALSE,adjective,2,"given to or marked by sentiment or sentimentality
+effusively or insincerely emotional",,
+sentimentalities,sentimentality,extravagant or affected feeling or emotion,1316,FALSE,noun,2,"falsely emotional in a maudlin way
+extravagant or affected feeling or emotion",,
+sentimentality,sentimentality,extravagant or affected feeling or emotion,1313,TRUE,noun,2,"falsely emotional in a maudlin way
+extravagant or affected feeling or emotion",,
+sentimentally,sentimentality,extravagant or affected feeling or emotion,1318,FALSE,adverb,1,in a sentimental manner,,
+sentiments,sentimentality,extravagant or affected feeling or emotion,1319,FALSE,noun,2,"tender, romantic, or nostalgic feeling or emotion
+a personal belief or judgment that is not founded on proof or certainty",,
+shame,shame,a painful emotion resulting from an awareness of inadequacy or guilt,1320,TRUE,noun,7,"a painful emotion resulting from an awareness of inadequacy or guilt
+a state of dishonor
+an unfortunate development
+bring shame or dishonor upon
+compel through a sense of shame
+cause to be ashamed
+surpass or beat by a wide margin",,
+shamed,shame,a painful emotion resulting from an awareness of inadequacy or guilt,1323,FALSE,verb,8,"bring shame or dishonor upon
+compel through a sense of shame
+cause to be ashamed
+surpass or beat by a wide margin
+make a pretence of
+make believe with the intent to deceive
+showing a sense of guilt; ; - Eric Linklater
+suffering shame",,
+shames,shame,a painful emotion resulting from an awareness of inadequacy or guilt,1324,FALSE,noun,9,"a painful emotion resulting from an awareness of inadequacy or guilt
+a state of dishonor
+an unfortunate development
+bring shame or dishonor upon
+compel through a sense of shame
+cause to be ashamed
+surpass or beat by a wide margin
+make a pretence of
+make believe with the intent to deceive",,
+shaming,shame,a painful emotion resulting from an awareness of inadequacy or guilt,1326,FALSE,verb,6,"bring shame or dishonor upon
+compel through a sense of shame
+cause to be ashamed
+surpass or beat by a wide margin
+make a pretence of
+make believe with the intent to deceive",,
+shock,shock,the feeling of distress and disbelief that you have when something bad happens accidentally,1332,TRUE,noun,17,"the feeling of distress and disbelief that you have when something bad happens accidentally
+the violent interaction of individuals or groups entering into combat
+a reflex response to the passage of electric current through the body
+(pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor
+an instance of agitation of the earth's crust
+an unpleasant or disappointing surprise
+a pile of sheaves of grain set on end in a field to dry; stalks of Indian corn set up in a field
+a bushy thick mass (especially hair)
+a sudden jarring impact
+a mechanical damper; absorbs energy of sudden impulses
+surprise greatly; knock someone's socks off
+strike with disgust or revulsion
+strike with horror or terror
+collide violently
+collect or gather into shocks
+subject to electrical shocks
+inflict a trauma upon",,
+shocked,shock,the feeling of distress and disbelief that you have when something bad happens accidentally,1335,FALSE,verb,8,"surprise greatly; knock someone's socks off
+strike with disgust or revulsion
+strike with horror or terror
+collide violently
+collect or gather into shocks
+subject to electrical shocks
+inflict a trauma upon
+struck with fear, dread, or consternation",,
+shocker,shock,the feeling of distress and disbelief that you have when something bad happens accidentally,1336,FALSE,noun,2,"a shockingly bad person
+a sensational message (in a film or play or novel)",,
+shockers,shock,the feeling of distress and disbelief that you have when something bad happens accidentally,1337,FALSE,noun,2,"a shockingly bad person
+a sensational message (in a film or play or novel)",,
+shocking,shock,the feeling of distress and disbelief that you have when something bad happens accidentally,1338,FALSE,verb,9,"surprise greatly; knock someone's socks off
+strike with disgust or revulsion
+strike with horror or terror
+collide violently
+collect or gather into shocks
+subject to electrical shocks
+inflict a trauma upon
+glaringly vivid and graphic; marked by sensationalism
+giving offense to moral sensibilities and injurious to reputation; ; - Thackeray",,
+shocks,shock,the feeling of distress and disbelief that you have when something bad happens accidentally,1340,FALSE,verb,17,"the feeling of distress and disbelief that you have when something bad happens accidentally
+the violent interaction of individuals or groups entering into combat
+a reflex response to the passage of electric current through the body
+(pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor
+an instance of agitation of the earth's crust
+an unpleasant or disappointing surprise
+a pile of sheaves of grain set on end in a field to dry; stalks of Indian corn set up in a field
+a bushy thick mass (especially hair)
+a sudden jarring impact
+a mechanical damper; absorbs energy of sudden impulses
+surprise greatly; knock someone's socks off
+strike with disgust or revulsion
+strike with horror or terror
+collide violently
+collect or gather into shocks
+subject to electrical shocks
+inflict a trauma upon",,
+sorrow,sorrow,an emotion of great sadness associated with loss or bereavement,1346,TRUE,noun,5,"an emotion of great sadness associated with loss or bereavement
+sadness associated with some wrong done or some disappointment
+something that causes great unhappiness
+the state of being sad
+feel grief",,
+sorrowed,sorrow,an emotion of great sadness associated with loss or bereavement,1349,FALSE,verb,1,feel grief,,
+sorrower,sorrow,an emotion of great sadness associated with loss or bereavement,1350,FALSE,noun,1,a person who is feeling grief (as grieving over someone who has died),,
+sorrowers,sorrow,an emotion of great sadness associated with loss or bereavement,1351,FALSE,noun,1,a person who is feeling grief (as grieving over someone who has died),,
+sorrowing,sorrow,an emotion of great sadness associated with loss or bereavement,1352,FALSE,verb,2,"feel grief
+sorrowful through loss or deprivation",,
+sorrows,sorrow,an emotion of great sadness associated with loss or bereavement,1353,FALSE,noun,5,"an emotion of great sadness associated with loss or bereavement
+sadness associated with some wrong done or some disappointment
+something that causes great unhappiness
+the state of being sad
+feel grief",,
+spite,spite,feeling a need to see others suffer,1355,TRUE,noun,3,"feeling a need to see others suffer
+malevolence by virtue of being malicious or spiteful or nasty
+hurt the feelings of",1,0
+spited,spite,feeling a need to see others suffer,1358,FALSE,verb,5,"hurt the feelings of
+expel or eject (saliva or phlegm or sputum) from the mouth
+utter with anger or contempt
+rain gently
+drive a skewer through",,
+spites,spite,feeling a need to see others suffer,1359,FALSE,noun,7,"feeling a need to see others suffer
+malevolence by virtue of being malicious or spiteful or nasty
+hurt the feelings of
+expel or eject (saliva or phlegm or sputum) from the mouth
+utter with anger or contempt
+rain gently
+drive a skewer through",,
+spiting,spite,feeling a need to see others suffer,1361,FALSE,verb,5,"hurt the feelings of
+expel or eject (saliva or phlegm or sputum) from the mouth
+utter with anger or contempt
+rain gently
+drive a skewer through",,
+suffer,suffering,psychological suffering,1373,FALSE,verb,11,"undergo or be subjected to
+undergo (as of injuries and illnesses)
+experience (emotional) pain
+put up with something or somebody unpleasant
+get worse
+feel pain or be in pain
+feel physical pain
+feel unwell or uncomfortable
+be given to
+undergo or suffer
+be set at a disadvantage",,
+sufferance,suffering,psychological suffering,1374,FALSE,noun,2,"patient endurance especially of pain or distress
+a disposition to tolerate or accept people or situations",,
+sufferances,suffering,psychological suffering,1375,FALSE,noun,2,"patient endurance especially of pain or distress
+a disposition to tolerate or accept people or situations",,
+suffered,suffering,psychological suffering,1376,FALSE,verb,11,"undergo or be subjected to
+undergo (as of injuries and illnesses)
+experience (emotional) pain
+put up with something or somebody unpleasant
+get worse
+feel pain or be in pain
+feel physical pain
+feel unwell or uncomfortable
+be given to
+undergo or suffer
+be set at a disadvantage",,
+sufferer,suffering,psychological suffering,1377,FALSE,noun,2,"a person suffering from an illness
+one who suffers for the sake of principle",,
+sufferers,suffering,psychological suffering,1378,FALSE,noun,2,"a person suffering from an illness
+one who suffers for the sake of principle",,
+suffering,suffering,psychological suffering,1372,TRUE,noun,17,"a state of acute pain
+misery resulting from affliction
+psychological suffering
+feelings of mental or physical pain
+undergo or be subjected to
+undergo (as of injuries and illnesses)
+experience (emotional) pain
+put up with something or somebody unpleasant
+get worse
+feel pain or be in pain
+feel physical pain
+feel unwell or uncomfortable
+be given to
+undergo or suffer
+be set at a disadvantage
+troubled by pain or loss
+very unhappy; full of misery",,
+sufferings,suffering,psychological suffering,1382,FALSE,noun,15,"a state of acute pain
+misery resulting from affliction
+psychological suffering
+feelings of mental or physical pain
+undergo or be subjected to
+undergo (as of injuries and illnesses)
+experience (emotional) pain
+put up with something or somebody unpleasant
+get worse
+feel pain or be in pain
+feel physical pain
+feel unwell or uncomfortable
+be given to
+undergo or suffer
+be set at a disadvantage",,
+suffers,suffering,psychological suffering,1383,FALSE,verb,11,"undergo or be subjected to
+undergo (as of injuries and illnesses)
+experience (emotional) pain
+put up with something or somebody unpleasant
+get worse
+feel pain or be in pain
+feel physical pain
+feel unwell or uncomfortable
+be given to
+undergo or suffer
+be set at a disadvantage",,
+sulk,sulk,a mood or display of sullen aloofness or withdrawal,1384,TRUE,adjective,2,"a mood or display of sullen aloofness or withdrawal
+be in a huff and display one's displeasure",,
+sulked,sulk,a mood or display of sullen aloofness or withdrawal,1387,FALSE,verb,1,be in a huff and display one's displeasure,,
+sulkies,sulk,a mood or display of sullen aloofness or withdrawal,1388,FALSE,noun,1,a light two-wheeled vehicle for one person; drawn by one horse,,
+sulkily,sulk,a mood or display of sullen aloofness or withdrawal,1389,FALSE,adverb,1,in a sulky manner,,
+sulkiness,sulk,a mood or display of sullen aloofness or withdrawal,1390,FALSE,noun,3,"a mood or display of sullen aloofness or withdrawal
+a feeling of sulky resentment
+a sullen moody resentful disposition",,
+sulkinesses,sulk,a mood or display of sullen aloofness or withdrawal,1391,FALSE,noun,3,"a mood or display of sullen aloofness or withdrawal
+a feeling of sulky resentment
+a sullen moody resentful disposition",,
+sulking,sulk,a mood or display of sullen aloofness or withdrawal,1392,FALSE,verb,1,be in a huff and display one's displeasure,,
+sulks,sulk,a mood or display of sullen aloofness or withdrawal,1393,FALSE,noun,2,"a mood or display of sullen aloofness or withdrawal
+be in a huff and display one's displeasure",,
+sulky,sulk,a mood or display of sullen aloofness or withdrawal,1395,FALSE,noun,4,"a light two-wheeled vehicle for one person; drawn by one horse
+sullen or moody
+moving slowly
+depressingly dark",,
+surprisal,surprise,the astonishment you feel when something totally unexpected happens to you,1409,FALSE,noun,1,the act of surprising someone,,
+surprisals,surprise,the astonishment you feel when something totally unexpected happens to you,1410,FALSE,noun,1,the act of surprising someone,,
+surprise,surprise,the astonishment you feel when something totally unexpected happens to you,1408,TRUE,noun,6,"the astonishment you feel when something totally unexpected happens to you
+a sudden unexpected event
+the act of surprising someone
+cause to be surprised
+come upon or take unawares
+attack by storm; attack suddenly",,
+surprised,surprise,the astonishment you feel when something totally unexpected happens to you,1413,FALSE,verb,4,"cause to be surprised
+come upon or take unawares
+attack by storm; attack suddenly
+taken unawares or suddenly and feeling wonder or astonishment",,
+surpriser,surprise,the astonishment you feel when something totally unexpected happens to you,1414,FALSE,noun,1,a captor who uses surprise to capture the victim,,
+surprisers,surprise,the astonishment you feel when something totally unexpected happens to you,1415,FALSE,noun,1,a captor who uses surprise to capture the victim,,
+surprises,surprise,the astonishment you feel when something totally unexpected happens to you,1416,FALSE,noun,6,"the astonishment you feel when something totally unexpected happens to you
+a sudden unexpected event
+the act of surprising someone
+cause to be surprised
+come upon or take unawares
+attack by storm; attack suddenly",,
+surprising,surprise,the astonishment you feel when something totally unexpected happens to you,1418,FALSE,verb,4,"cause to be surprised
+come upon or take unawares
+attack by storm; attack suddenly
+causing surprise or wonder or amazement",,
+sympathetic,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1420,FALSE,adjective,6,"of or relating to the sympathetic nervous system
+expressing or feeling or resulting from sympathy or compassion or friendly fellow feelings; disposed toward
+showing or motivated by sympathy and understanding and generosity
+(of characters in literature or drama) evoking empathic or sympathetic feelings
+having similar disposition and tastes
+relating to vibrations that occur as a result of vibrations in a nearby body",,
+sympathetic_nervous_system,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1421,FALSE,noun,1,originates in the thoracic regions of the spinal cord; opposes physiological effects of the parasympathetic: reduces digestive secretions; speeds the heart; contracts blood vessels,1,1
+sympathetic_nervous_systems,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1422,FALSE,noun,1,originates in the thoracic regions of the spinal cord; opposes physiological effects of the parasympathetic: reduces digestive secretions; speeds the heart; contracts blood vessels,1,1
+sympathetically,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1423,FALSE,adverb,2,"with respect to the sympathetic nervous system
+in a sympathetic manner",,
+sympathies,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1424,FALSE,noun,3,"an inclination to support or be loyal to or to agree with an opinion
+sharing the feelings of others (especially feelings of sorrow or anguish)
+a relation of affinity or harmony between people; whatever affects one correspondingly affects the other",,
+sympathise,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1425,FALSE,verb,3,"share the feelings of; understand the sentiments of
+to feel or express sympathy or compassion
+be understanding of",,
+sympathiser,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1426,FALSE,noun,2,"commiserates with someone who has had misfortune
+someone who shares your feelings or opinions and hopes that you will be successful",,
+sympathisers,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1427,FALSE,noun,2,"commiserates with someone who has had misfortune
+someone who shares your feelings or opinions and hopes that you will be successful",,
+sympathize,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1428,FALSE,verb,3,"share the feelings of; understand the sentiments of
+be understanding of
+to feel or express sympathy or compassion",,
+sympathized,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1429,FALSE,verb,3,"share the feelings of; understand the sentiments of
+be understanding of
+to feel or express sympathy or compassion",,
+sympathizer,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1430,FALSE,noun,2,"commiserates with someone who has had misfortune
+someone who shares your feelings or opinions and hopes that you will be successful",,
+sympathizers,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1431,FALSE,noun,2,"commiserates with someone who has had misfortune
+someone who shares your feelings or opinions and hopes that you will be successful",,
+sympathizes,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1432,FALSE,verb,3,"share the feelings of; understand the sentiments of
+be understanding of
+to feel or express sympathy or compassion",,
+sympathizing,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1433,FALSE,verb,3,"share the feelings of; understand the sentiments of
+be understanding of
+to feel or express sympathy or compassion",,
+sympathy,sympathy,sharing the feelings of others (especially feelings of sorrow or anguish),1419,TRUE,noun,3,"an inclination to support or be loyal to or to agree with an opinion
+sharing the feelings of others (especially feelings of sorrow or anguish)
+a relation of affinity or harmony between people; whatever affects one correspondingly affects the other",,
+tend,tenderness,warm compassionate feelings,1436,FALSE,verb,3,"have a tendency or disposition to do or be something; be inclined
+have care of or look after
+manage or run",1,1
+tended,tenderness,warm compassionate feelings,1437,FALSE,verb,3,"have a tendency or disposition to do or be something; be inclined
+have care of or look after
+manage or run",1,1
+tendencies,tenderness,warm compassionate feelings,1438,FALSE,noun,4,"an attitude of mind especially one that favors one alternative over others
+an inclination to do something
+a characteristic likelihood of or natural disposition toward a certain condition or character or effect
+a general direction in which something tends to move",1,1
+tendencious,tenderness,warm compassionate feelings,1439,FALSE,adjective,1,having or marked by a strong tendency especially a controversial one,1,1
+tendency,tenderness,warm compassionate feelings,1440,FALSE,noun,4,"an attitude of mind especially one that favors one alternative over others
+an inclination to do something
+a characteristic likelihood of or natural disposition toward a certain condition or character or effect
+a general direction in which something tends to move",1,1
+tendentious,tenderness,warm compassionate feelings,1441,FALSE,adjective,1,having or marked by a strong tendency especially a controversial one,1,1
+tendentiously,tenderness,warm compassionate feelings,1442,FALSE,adverb,1,in a tendentious manner,1,1
+tendentiousness,tenderness,warm compassionate feelings,1443,FALSE,noun,1,an intentional and controversial bias,1,1
+tendentiousnesses,tenderness,warm compassionate feelings,1444,FALSE,noun,1,an intentional and controversial bias,1,1
+tender,tenderness,warm compassionate feelings,1445,FALSE,noun,18,"something that can be used as an official medium of payment
+someone who waits on or tends to or attends to the needs of another
+a formal proposal to buy at a specified price
+car attached to a locomotive to carry fuel and water
+a boat for communication between ship and shore
+ship that usually provides supplies to other ships
+offer or present for acceptance
+propose a payment
+make a tender of; in legal settlements
+make tender or more tender as by marinating, pounding, or applying a tenderizer
+given to sympathy or gentleness or sentimentality
+hurting
+young and immature
+having or displaying warmth or affection
+easy to cut or chew
+physically untoughened
+(used of boats) inclined to heel over easily under sail
+(of plants) not hardy; easily killed by adverse growing condition",1,1
+tendered,tenderness,warm compassionate feelings,1448,FALSE,verb,4,"offer or present for acceptance
+propose a payment
+make a tender of; in legal settlements
+make tender or more tender as by marinating, pounding, or applying a tenderizer",1,1
+tendering,tenderness,warm compassionate feelings,1449,FALSE,verb,4,"offer or present for acceptance
+propose a payment
+make a tender of; in legal settlements
+make tender or more tender as by marinating, pounding, or applying a tenderizer",1,1
+tenderization,tenderness,warm compassionate feelings,1450,FALSE,noun,1,the act of making meat tender by pounding or marinating it,1,1
+tenderizations,tenderness,warm compassionate feelings,1451,FALSE,noun,1,the act of making meat tender by pounding or marinating it,1,1
+tenderize,tenderness,warm compassionate feelings,1452,FALSE,verb,1,"make tender or more tender as by marinating, pounding, or applying a tenderizer",1,1
+tenderized,tenderness,warm compassionate feelings,1453,FALSE,verb,2,"make tender or more tender as by marinating, pounding, or applying a tenderizer
+made tender as by marinating or pounding",1,1
+tenderizer,tenderness,warm compassionate feelings,1454,FALSE,noun,1,a substance (as the plant enzyme papain) applied to meat to make it tender,1,1
+tenderizers,tenderness,warm compassionate feelings,1455,FALSE,noun,1,a substance (as the plant enzyme papain) applied to meat to make it tender,1,1
+tenderizes,tenderness,warm compassionate feelings,1456,FALSE,verb,1,"make tender or more tender as by marinating, pounding, or applying a tenderizer",1,1
+tenderizing,tenderness,warm compassionate feelings,1457,FALSE,verb,1,"make tender or more tender as by marinating, pounding, or applying a tenderizer",1,1
+tenderly,tenderness,warm compassionate feelings,1458,FALSE,adverb,1,with tenderness; in a tender manner,,
+tenderness,tenderness,warm compassionate feelings,1435,TRUE,noun,5,"a tendency to express warm and affectionate feeling
+a pain that is felt (as when the area is touched)
+warm compassionate feelings
+a positive feeling of liking
+a feeling of concern for the welfare of someone (especially someone defenseless)",,
+tendernesses,tenderness,warm compassionate feelings,1460,FALSE,noun,5,"a tendency to express warm and affectionate feeling
+a pain that is felt (as when the area is touched)
+warm compassionate feelings
+a positive feeling of liking
+a feeling of concern for the welfare of someone (especially someone defenseless)",,
+tenders,tenderness,warm compassionate feelings,1461,FALSE,noun,10,"something that can be used as an official medium of payment
+someone who waits on or tends to or attends to the needs of another
+a formal proposal to buy at a specified price
+car attached to a locomotive to carry fuel and water
+a boat for communication between ship and shore
+ship that usually provides supplies to other ships
+offer or present for acceptance
+propose a payment
+make a tender of; in legal settlements
+make tender or more tender as by marinating, pounding, or applying a tenderizer",1,1
+tending,tenderness,warm compassionate feelings,1463,FALSE,noun,5,"the work of providing treatment for or attending to someone or something
+have a tendency or disposition to do or be something; be inclined
+have care of or look after
+manage or run
+(usually followed by `to') naturally disposed toward",1,1
+tendings,tenderness,warm compassionate feelings,1466,FALSE,noun,4,"the work of providing treatment for or attending to someone or something
+have a tendency or disposition to do or be something; be inclined
+have care of or look after
+manage or run",1,1
+tends,tenderness,warm compassionate feelings,1467,FALSE,verb,3,"have a tendency or disposition to do or be something; be inclined
+have care of or look after
+manage or run",1,1
+terrified,terror,an overwhelming feeling of fear and anxiety,1487,FALSE,verb,2,"fill with terror; frighten greatly
+thrown into a state of intense fear or desperation",,
+terrifies,terror,an overwhelming feeling of fear and anxiety,1488,FALSE,verb,1,fill with terror; frighten greatly,,
+terrify,terror,an overwhelming feeling of fear and anxiety,1489,FALSE,verb,1,fill with terror; frighten greatly,,
+terrifying,terror,an overwhelming feeling of fear and anxiety,1490,FALSE,verb,2,"fill with terror; frighten greatly
+causing extreme terror",,
+terror,terror,an overwhelming feeling of fear and anxiety,1486,TRUE,noun,4,"an overwhelming feeling of fear and anxiety
+a person who inspires fear or dread
+a very troublesome child
+the use of extreme fear in order to coerce people (especially for political reasons)",,
+terrorisation,terror,an overwhelming feeling of fear and anxiety,1492,FALSE,noun,2,"the act of inspiring with fear
+an act of terrorism",,
+terrorisations,terror,an overwhelming feeling of fear and anxiety,1493,FALSE,noun,2,"the act of inspiring with fear
+an act of terrorism",,
+terrorise,terror,an overwhelming feeling of fear and anxiety,1494,FALSE,verb,2,"coerce by violence or with threats
+fill with terror; frighten greatly",,
+terrorism,terror,an overwhelming feeling of fear and anxiety,1495,FALSE,noun,1,the calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear,1,1
+terrorisms,terror,an overwhelming feeling of fear and anxiety,1496,FALSE,noun,1,the calculated use of violence (or the threat of violence) against civilians in order to attain goals that are political or religious or ideological in nature; this is done through intimidation or coercion or instilling fear,1,1
+terrorist,terror,an overwhelming feeling of fear and anxiety,1497,FALSE,noun,1,a radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activities,1,1
+terrorists,terror,an overwhelming feeling of fear and anxiety,1498,FALSE,noun,1,a radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activities,1,1
+terrorization,terror,an overwhelming feeling of fear and anxiety,1499,FALSE,noun,2,"the act of inspiring with fear
+an act of terrorism",,
+terrorizations,terror,an overwhelming feeling of fear and anxiety,1500,FALSE,noun,2,"the act of inspiring with fear
+an act of terrorism",,
+terrorize,terror,an overwhelming feeling of fear and anxiety,1501,FALSE,verb,2,"coerce by violence or with threats
+fill with terror; frighten greatly",,
+terrorized,terror,an overwhelming feeling of fear and anxiety,1502,FALSE,verb,2,"coerce by violence or with threats
+fill with terror; frighten greatly",,
+terrorizes,terror,an overwhelming feeling of fear and anxiety,1503,FALSE,verb,2,"coerce by violence or with threats
+fill with terror; frighten greatly",,
+terrorizing,terror,an overwhelming feeling of fear and anxiety,1504,FALSE,verb,2,"coerce by violence or with threats
+fill with terror; frighten greatly",,
+terrors,terror,an overwhelming feeling of fear and anxiety,1505,FALSE,noun,4,"an overwhelming feeling of fear and anxiety
+a person who inspires fear or dread
+a very troublesome child
+the use of extreme fear in order to coerce people (especially for political reasons)",,
+thrill,thrill,the swift release of a store of affective force,1506,TRUE,noun,7,"the swift release of a store of affective force
+an almost pleasurable sensation of fright
+something that causes you to experience a sudden intense feeling or sensation
+cause to be thrilled by some perceptual input
+feel sudden intense sensation or emotion
+tremble convulsively, as from fear or excitement
+fill with sublime emotion",,
+thrilled,thrill,the swift release of a store of affective force,1509,FALSE,verb,5,"cause to be thrilled by some perceptual input
+feel sudden intense sensation or emotion
+tremble convulsively, as from fear or excitement
+fill with sublime emotion
+feeling intense pleasurable excitement",,
+thriller,thrill,the swift release of a store of affective force,1510,FALSE,noun,1,a suspenseful adventure story or play or movie,1,1
+thrillers,thrill,the swift release of a store of affective force,1511,FALSE,noun,1,a suspenseful adventure story or play or movie,1,1
+thrilling,thrill,the swift release of a store of affective force,1512,FALSE,verb,6,"cause to be thrilled by some perceptual input
+feel sudden intense sensation or emotion
+tremble convulsively, as from fear or excitement
+fill with sublime emotion
+causing a surge of emotion or excitement
+causing quivering or shivering as by cold or fear or electric shock",,
+thrills,thrill,the swift release of a store of affective force,1514,FALSE,verb,7,"the swift release of a store of affective force
+an almost pleasurable sensation of fright
+something that causes you to experience a sudden intense feeling or sensation
+cause to be thrilled by some perceptual input
+feel sudden intense sensation or emotion
+tremble convulsively, as from fear or excitement
+fill with sublime emotion",,
+torment,torment,extreme mental distress,1515,TRUE,noun,9,"unbearable physical pain
+extreme mental distress
+intense feelings of suffering; acute mental or physical pain
+a feeling of intense annoyance caused by being tormented
+a severe affliction
+the act of harassing someone
+torment emotionally or mentally
+treat cruelly
+subject to torture",,
+tormented,torment,extreme mental distress,1518,FALSE,verb,5,"torment emotionally or mentally
+treat cruelly
+subject to torture
+experiencing intense pain especially mental pain
+tormented or harassed by nightmares or unreasonable fears; - C.S.Lewis",,
+tormenter,torment,extreme mental distress,1519,FALSE,noun,2,"someone who torments
+a flat at each side of the stage to prevent the audience from seeing into the wings",,
+tormenters,torment,extreme mental distress,1520,FALSE,noun,2,"someone who torments
+a flat at each side of the stage to prevent the audience from seeing into the wings",,
+tormenting,torment,extreme mental distress,1521,FALSE,verb,3,"torment emotionally or mentally
+treat cruelly
+subject to torture",,
+tormentor,torment,extreme mental distress,1522,FALSE,noun,2,"someone who torments
+a flat at each side of the stage to prevent the audience from seeing into the wings",,
+tormentors,torment,extreme mental distress,1523,FALSE,noun,2,"someone who torments
+a flat at each side of the stage to prevent the audience from seeing into the wings",,
+torments,torment,extreme mental distress,1524,FALSE,noun,9,"unbearable physical pain
+extreme mental distress
+intense feelings of suffering; acute mental or physical pain
+a feeling of intense annoyance caused by being tormented
+a severe affliction
+the act of harassing someone
+torment emotionally or mentally
+treat cruelly
+subject to torture",,
+triumph,triumph,the exultation of victory,1526,TRUE,noun,6,"a successful ending of a struggle or contest
+the exultation of victory
+prove superior
+be ecstatic with joy
+dwell on with satisfaction
+to express great joy",,
+triumphal,triumph,the exultation of victory,1529,FALSE,adjective,2,"relating to or celebrating a triumph
+joyful and proud especially because of triumph or success",,
+triumphant,triumph,the exultation of victory,1530,FALSE,adjective,2,"joyful and proud especially because of triumph or success
+experiencing triumph",,
+triumphantly,triumph,the exultation of victory,1531,FALSE,adverb,1,in a triumphant manner,,
+triumphed,triumph,the exultation of victory,1532,FALSE,verb,4,"prove superior
+be ecstatic with joy
+dwell on with satisfaction
+to express great joy",,
+triumphing,triumph,the exultation of victory,1533,FALSE,verb,4,"prove superior
+be ecstatic with joy
+dwell on with satisfaction
+to express great joy",,
+triumphs,triumph,the exultation of victory,1534,FALSE,noun,6,"a successful ending of a struggle or contest
+the exultation of victory
+prove superior
+be ecstatic with joy
+dwell on with satisfaction
+to express great joy",,
+uneasily,uneasiness,feelings of anxiety that make you tense and irritable,1537,FALSE,adverb,1,with anxiety or apprehension,,
+uneasiness,uneasiness,feelings of anxiety that make you tense and irritable,1536,TRUE,noun,5,"feelings of anxiety that make you tense and irritable
+physical discomfort (as mild sickness or depression)
+embarrassment deriving from the feeling that others are critically aware of you
+the trait of seeming ill at ease
+inability to rest or relax or be still",,
+uneasinesses,uneasiness,feelings of anxiety that make you tense and irritable,1539,FALSE,noun,5,"feelings of anxiety that make you tense and irritable
+physical discomfort (as mild sickness or depression)
+embarrassment deriving from the feeling that others are critically aware of you
+the trait of seeming ill at ease
+inability to rest or relax or be still",,
+uneasy,uneasiness,feelings of anxiety that make you tense and irritable,1540,FALSE,adjective,5,"lacking a sense of security or affording no ease or reassurance
+lacking or not affording physical or mental rest
+causing or fraught with or showing anxiety
+socially uncomfortable; unsure and constrained in manner
+relating to bodily unease that causes discomfort",,
+unhappily,unhappiness,emotions experienced when not in a state of well-being,1542,FALSE,adverb,2,"in an unpleasant way
+in an unfortunate way",,
+unhappiness,unhappiness,emotions experienced when not in a state of well-being,1541,TRUE,noun,2,"emotions experienced when not in a state of well-being
+state characterized by emotions ranging from mild discontentment to deep grief",,
+unhappinesses,unhappiness,emotions experienced when not in a state of well-being,1544,FALSE,noun,2,"emotions experienced when not in a state of well-being
+state characterized by emotions ranging from mild discontentment to deep grief",,
+unhappy,unhappiness,emotions experienced when not in a state of well-being,1545,FALSE,adjective,4,"experiencing or marked by or causing sadness or sorrow or discontent
+generalized feeling of distress
+causing discomfort
+marked by or producing unhappiness; ; - American Guide Series",,
+vain,vanity,feelings of excessive pride,1547,FALSE,adjective,2,"characteristic of false pride; having an exaggerated sense of self-importance
+unproductive of success",1,0
+vainly,vanity,feelings of excessive pride,1548,FALSE,adverb,1,to no avail,1,1
+vanities,vanity,feelings of excessive pride,1549,FALSE,noun,4,"feelings of excessive pride
+the quality of being valueless or futile
+the trait of being unduly vain and conceited; false pride
+low table with mirror or mirrors where one sits while dressing or applying makeup",,
+vanity,vanity,feelings of excessive pride,1546,TRUE,noun,4,"feelings of excessive pride
+the quality of being valueless or futile
+the trait of being unduly vain and conceited; false pride
+low table with mirror or mirrors where one sits while dressing or applying makeup",,
+woe,woe,intense mournfulness,1604,TRUE,noun,2,"misery resulting from affliction
+intense mournfulness",,
+woes,woe,intense mournfulness,1606,FALSE,noun,2,"misery resulting from affliction
+intense mournfulness",,
+wonder,wonderment,the feeling aroused by something strange and surprising,1608,FALSE,noun,6,"the feeling aroused by something strange and surprising
+something that causes feelings of wonder
+a state in which you want to learn more about something
+have a wish or desire to know something
+place in doubt or express doubtful speculation
+be amazed at",,
+wondered,wonderment,the feeling aroused by something strange and surprising,1610,FALSE,verb,3,"have a wish or desire to know something
+place in doubt or express doubtful speculation
+be amazed at",,
+wonderer,wonderment,the feeling aroused by something strange and surprising,1611,FALSE,noun,2,"someone who is curious about something
+someone filled with admiration and awe; someone who wonders at something",,
+wonderers,wonderment,the feeling aroused by something strange and surprising,1612,FALSE,noun,2,"someone who is curious about something
+someone filled with admiration and awe; someone who wonders at something",,
+wondering,wonderment,the feeling aroused by something strange and surprising,1613,FALSE,verb,4,"have a wish or desire to know something
+place in doubt or express doubtful speculation
+be amazed at
+showing curiosity",,
+wonderment,wonderment,the feeling aroused by something strange and surprising,1607,TRUE,noun,1,the feeling aroused by something strange and surprising,,
+wonderments,wonderment,the feeling aroused by something strange and surprising,1615,FALSE,noun,1,the feeling aroused by something strange and surprising,,
+wonders,wonderment,the feeling aroused by something strange and surprising,1616,FALSE,noun,6,"the feeling aroused by something strange and surprising
+something that causes feelings of wonder
+a state in which you want to learn more about something
+have a wish or desire to know something
+place in doubt or express doubtful speculation
+be amazed at",,
+wondrous,wonderment,the feeling aroused by something strange and surprising,1618,FALSE,adjective,2,"extraordinarily good or great ; used especially as intensifiers
+(used as an intensifier) extremely well",,
+wondrously,wonderment,the feeling aroused by something strange and surprising,1620,FALSE,adverb,1,(used as an intensifier) extremely well,,
+worried,worry,a strong feeling of anxiety,1622,FALSE,verb,8,"be worried, concerned, anxious, troubled, or uneasy
+be concerned with
+disturb the peace of mind of; afflict with mental agitation or distress
+be on the mind of
+lacerate by biting
+touch or rub constantly
+afflicted with or marked by anxious uneasiness or trouble or grief
+mentally upset over possible misfortune or danger etc",,
+worrier,worry,a strong feeling of anxiety,1623,FALSE,noun,1,thinks about unfortunate things that might happen,,
+worriers,worry,a strong feeling of anxiety,1624,FALSE,noun,1,thinks about unfortunate things that might happen,,
+worries,worry,a strong feeling of anxiety,1625,FALSE,noun,8,"something or someone that causes anxiety; a source of unhappiness
+a strong feeling of anxiety
+be worried, concerned, anxious, troubled, or uneasy
+be concerned with
+disturb the peace of mind of; afflict with mental agitation or distress
+be on the mind of
+lacerate by biting
+touch or rub constantly",,
+worriment,worry,a strong feeling of anxiety,1627,FALSE,noun,1,a difficulty that causes anxiety,,
+worriments,worry,a strong feeling of anxiety,1628,FALSE,noun,1,a difficulty that causes anxiety,,
+worry,worry,a strong feeling of anxiety,1621,TRUE,noun,8,"something or someone that causes anxiety; a source of unhappiness
+a strong feeling of anxiety
+be worried, concerned, anxious, troubled, or uneasy
+be concerned with
+disturb the peace of mind of; afflict with mental agitation or distress
+be on the mind of
+lacerate by biting
+touch or rub constantly",,
+worrying,worry,a strong feeling of anxiety,1631,FALSE,noun,9,"the act of harassing someone
+the act of moving something by repeated tugs or pushes
+be worried, concerned, anxious, troubled, or uneasy
+be concerned with
+disturb the peace of mind of; afflict with mental agitation or distress
+be on the mind of
+lacerate by biting
+touch or rub constantly
+causing distress or worry or anxiety",,
+worryingly,worry,a strong feeling of anxiety,1634,FALSE,adverb,1,in a manner to cause worry,,
+worryings,worry,a strong feeling of anxiety,1635,FALSE,noun,8,"the act of harassing someone
+the act of moving something by repeated tugs or pushes
+be worried, concerned, anxious, troubled, or uneasy
+be concerned with
+disturb the peace of mind of; afflict with mental agitation or distress
+be on the mind of
+lacerate by biting
+touch or rub constantly",,
+wrath,wrath,intense anger (usually on an epic scale),1636,TRUE,noun,2,"intense anger (usually on an epic scale)
+belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)",,
+wraths,wrath,intense anger (usually on an epic scale),1638,FALSE,noun,2,"intense anger (usually on an epic scale)
+belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)",,
+zeal,zeal,a feeling of strong eagerness (usually in favor of a person or cause),1639,TRUE,noun,3,"a feeling of strong eagerness (usually in favor of a person or cause)
+excessive fervor to do something or accomplish some end
+prompt willingness",,
+zealous,zeal,a feeling of strong eagerness (usually in favor of a person or cause),1641,FALSE,adjective,1,marked by active interest and enthusiasm,,
+zealously,zeal,a feeling of strong eagerness (usually in favor of a person or cause),1642,FALSE,adverb,1,in a zealous manner,,
+zeals,zeal,a feeling of strong eagerness (usually in favor of a person or cause),1643,FALSE,noun,3,"a feeling of strong eagerness (usually in favor of a person or cause)
+excessive fervor to do something or accomplish some end
+prompt willingness",,
+zest,zest,vigorous and enthusiastic enjoyment,1644,TRUE,noun,3,"vigorous and enthusiastic enjoyment
+a tart spicy quality
+add herbs or spices to",,
+zested,zest,vigorous and enthusiastic enjoyment,1647,FALSE,verb,1,add herbs or spices to,1,1
+zestily,zest,vigorous and enthusiastic enjoyment,1648,FALSE,adverb,1,with zest,,
+zesting,zest,vigorous and enthusiastic enjoyment,1649,FALSE,verb,1,add herbs or spices to,1,1
+zests,zest,vigorous and enthusiastic enjoyment,1650,FALSE,noun,3,"vigorous and enthusiastic enjoyment
+a tart spicy quality
+add herbs or spices to",,
+zesty,zest,vigorous and enthusiastic enjoyment,1652,FALSE,adjective,2,"having an agreeably pungent taste
+marked by spirited enjoyment",,
